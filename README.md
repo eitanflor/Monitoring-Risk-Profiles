@@ -2,7 +2,7 @@
   <h1 align="center" fontsize="2em">p r o j e c t n a m e</h1>
 </p>
 
-<p align="center">risk profiling with python, neo4j and statistics</p>
+<p align="center">Risk Profiling with Python, Neo4j, Statistics and Machine Learning</p>
 
 ![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/eitanflor/MonitoringRiskProfiles_COVID-19)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/eitanflor/MonitoringRiskProfiles_COVID-19)
