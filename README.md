@@ -35,10 +35,11 @@ The metadata utilized as the simulation of our "FIU Network" via Neo4j is shown 
 
 ![network image](https://github.com/eitanflor/Monitoring-Risk-Profiles/blob/master/static/neo4j-network.png)
 
-Our designed risk profiling metric is depicted below:
+Our designed (proof-of-concept) risk profiling metric is depicted below:
 
-![metric](https://github.com/eitanflor/Monitoring-Risk-Profiles/blob/master/static/risk%20score.JPG)
-
+<p align="center">
+    <img src="https://github.com/eitanflor/Monitoring-Risk-Profiles/blob/master/static/risk%20score.JPG">
+<p>
 
 ### Python
 
