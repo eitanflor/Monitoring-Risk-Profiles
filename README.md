@@ -14,7 +14,7 @@
 ## Project Overview and Problem Statement
 How can FIU effectively track and monitor risk profiles for students, faculty, and administrative and support staff? What would be effective mechanism(s) to assign risk scores and maintain risk profiles based on personal factors (such as individual health, household composition) versus community factors (such as number of people tested positive who are on campus, numbers out there for community, region, etc)?
 
-Click [Datathon 2020](https://business.fiu.edu/academic-departments/is/covid19-datathon/challenge-prompts.cfm) to access the full specifications on FIU’S ATOM COVID-19 DATATHON. 
+Click [here](https://business.fiu.edu/academic-departments/is/covid19-datathon/challenge-prompts.cfm) to access the full specifications on FIU’S ATOM COVID-19 DATATHON. 
 
 ## Tableau Dashboard
 
