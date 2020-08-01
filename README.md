@@ -1,12 +1,11 @@
+
+
 <p align="center">
-  <h1 align="center" fontsize="2em">p r o j e c t n a m e</h1>
+  <h1 align="center" fontsize="2em">p y P 3</h1>
+  <h2 align="center" fontsize="2em">Extending Panthers Protecting Panthers</h2>
 </p>
 
 <p align="center">Risk Profiling with Python, Neo4j, Statistics and Machine Learning</p>
-
-![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/eitanflor/MonitoringRiskProfiles_COVID-19)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/eitanflor/MonitoringRiskProfiles_COVID-19)
-![GitHub](https://img.shields.io/github/license/eitanflor/MonitoringRiskProfiles_COVID-19)
 
 # Monitoring Risk Profiles (COVID-19)
 
