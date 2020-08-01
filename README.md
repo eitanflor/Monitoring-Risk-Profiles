@@ -7,7 +7,7 @@
   <h2 align="center" fontsize="2em">Python Extension (Add-On) to Panthers Protecting Panthers</h2>
 </p>
 
-<p align="center">Risk Profiling with Python, Tableau, Neo4j, SQL, and Statistics</p>
+<p align="center">Risk Profiling with Python, Tableau, Neo4j, and SQL</p>
 
 # Monitoring Risk Profiles (COVID-19)
 
