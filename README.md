@@ -41,6 +41,7 @@ For the [wifi-script.sql](https://github.com/eitanflor/Monitoring-Risk-Profiles/
     <img src="https://github.com/eitanflor/Monitoring-Risk-Profiles/blob/master/static/neo4j.png">
     <img src="https://github.com/eitanflor/Monitoring-Risk-Profiles/blob/master/static/excel.jpg">
     <img src="https://github.com/eitanflor/Monitoring-Risk-Profiles/blob/master/static/sql.png"> 
+<br>
     <img src="https://github.com/eitanflor/Monitoring-Risk-Profiles/blob/master/static/python.png">
 </p>
 
