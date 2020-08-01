@@ -20,7 +20,18 @@ Click [here](https://business.fiu.edu/academic-departments/is/covid19-datathon/c
 
 To view our dashboard, please click [here](https://public.tableau.com/shared/JT9Y79QFQ?:display_count=y&:origin=viz_share_link).
 
-## Code Overview
+## Methodology and Overview
+
+Before writing any code, we decided to enrich the provided data with the intention of creating an accurate simulation of the FIU student body, faculty, support staff, and administration. As a result, utilizing estimations and Google's mapping API's we plotted over 10,000 addresses across Miami-Dade and Broward County to depict the home locations of FIU's population. Additionally, we made sure to include relevant metadata to aid in the future task of risk profiling by adding factors of gender, age, household size, current cases (infections) by Zip-Code. These factors will be systematically supplied into our designed risk profiling index as depicted below: 
+
+ADD EQUATIONS HERE!
+
+The results of our generated data can be visualized below:
+
+![Map Image 1](https://github.com/eitanflor/Monitoring-Risk-Profiles/blob/master/static/Zoomed-Out-Focus.JPG)
+![Map Image 2](https://github.com/eitanflor/Monitoring-Risk-Profiles/blob/master/static/FIU-MMC-Focus.JPG)
+
+The full map is interactive and can be accessed entirely for full features and navigation (Zoom-In/Zoom-Out) [here](https://github.com/eitanflor/Monitoring-Risk-Profiles/blob/master/static/map.html). 
 
 ### SQL
 
