@@ -28,10 +28,10 @@ ADD EQUATIONS HERE!
 
 The results of our generated data can be visualized below:
 
-![Map Image 1](https://github.com/eitanflor/Monitoring-Risk-Profiles/blob/master/static/Zoomed-Out-Focus.JPG)
-![Map Image 2](https://github.com/eitanflor/Monitoring-Risk-Profiles/blob/master/static/FIU-MMC-Focus.JPG)
+![Map Image 1](https://github.com/eitanflor/Monitoring-Risk-Profiles/blob/master/static/Zoomed-Out-Focus.jpg)
+![Map Image 2](https://github.com/eitanflor/Monitoring-Risk-Profiles/blob/master/static/FIU-MMC-Focus.jpg)
 
-The full map is interactive and can be accessed entirely for full features and navigation (Zoom-In/Zoom-Out) [here](https://github.com/eitanflor/Monitoring-Risk-Profiles/blob/master/static/map.html). 
+The full map is interactive and can be accessed entirely for features and navigation (Zoom-In/Zoom-Out) [here](https://github.com/eitanflor/Monitoring-Risk-Profiles/blob/master/static/map.html). 
 
 ### SQL
 
