@@ -24,9 +24,9 @@ To view our dashboard, please click [here](https://public.tableau.com/shared/JT9
 
 ### SQL
 
-For the [algorithm-join-script.sql](https://github.com/eitanflor/Monitoring-Risk-Profiles/blob/master/sql%20scripts/algorithm-join-script.sql), we utilized SQL to initially clean the data by removing duplicate records. Next, we retrieved the highest capacity of a respective class and used this information to join the given FIU scheduling data.   
+For the [algorithm-join-script.sql](https://github.com/eitanflor/Monitoring-Risk-Profiles/blob/master/sql/algorithm-join-script.sql), we utilized SQL to initially clean the data by removing duplicate records. Next, we retrieved the highest capacity of a respective class and used this information to join the given FIU scheduling data.   
 
-For the [wifi-script.sql](https://github.com/eitanflor/Monitoring-Risk-Profiles/blob/master/sql%20scripts/wifi-script.sql), we utilized SQL to combine the provided FIU network data and transform the time to an interpretable factor based on a 24 hour format scheme. 
+For the [wifi-script.sql](https://github.com/eitanflor/Monitoring-Risk-Profiles/blob/master/sql/wifi-script.sql), we utilized SQL to combine the provided FIU network data and transform the time to an interpretable factor based on a 24 hour format scheme. 
 
 ### Python
 
@@ -38,9 +38,10 @@ For the [wifi-script.sql](https://github.com/eitanflor/Monitoring-Risk-Profiles/
 
 <p align="center">
     <img src="https://github.com/eitanflor/Monitoring-Risk-Profiles/blob/master/static/tableaulogo.png">
+    <img src="https://github.com/eitanflor/Monitoring-Risk-Profiles/blob/master/static/neo4j.png">
+    <img src="https://github.com/eitanflor/Monitoring-Risk-Profiles/blob/master/static/excel.jpg">
     <img src="https://github.com/eitanflor/Monitoring-Risk-Profiles/blob/master/static/sql.png"> 
     <img src="https://github.com/eitanflor/Monitoring-Risk-Profiles/blob/master/static/python.png">
-    <img src="https://github.com/eitanflor/Monitoring-Risk-Profiles/blob/master/static/excel.jpg">
 </p>
 
 ## References 
