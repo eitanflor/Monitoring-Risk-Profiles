@@ -35,6 +35,10 @@ The metadata utilized as the simulation of our "FIU Network" via Neo4j is shown 
 
 ![network image](https://github.com/eitanflor/Monitoring-Risk-Profiles/blob/master/static/neo4j-network.png)
 
+For reference, the schema of our Neo4j graph database is as follows:
+
+![schema](https://github.com/eitanflor/Monitoring-Risk-Profiles/blob/master/static/schema.png)
+
 Our designed (proof-of-concept) risk profiling metric is depicted below:
 
 <p align="center">
