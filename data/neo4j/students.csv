@@ -1,0 +1,60 @@
+sid,name,zipcode,household,age,gender,address,Weekly_Rotation
+4860,Hester,33176,4,25,F,"9450 SW 104th St, Miami, FL 33176, USA",Group 1
+4861,Emmer,33331,2,24,F,"14834 SW 33rd St, Davie, FL 33331, USA",Group 1
+4862,Crawford,33176,2,23,M,"11470 Pinkston Dr, Miami, FL 33176, USA",Group 1
+4863,Porter,33157,4,25,M,"17201 SW 84th Ave, Palmetto Bay, FL 33157, USA",Group 1
+4865,Forrest,33174,1,19,M,"1142 SW 102nd Ct, Miami, FL 33174, USA",Group 1
+4866,Chester,33142,2,22,M,"3371 NW 35th St, Miami, FL 33142, USA",Group 1
+4867,Ruben,33140,3,18,M,"2910 Collins Ave, Miami Beach, FL 33140, USA",Group 2
+4868,Luna,33167,4,23,F,"1631 NW 119th St, Miami, FL 33167, USA",Group 2
+4869,Nora,33018,3,19,F,"14799 NW 117th Ave, Hialeah, FL 33018, USA",Group 2
+4874,Natalie,33177,4,25,F,"19410 SW 147th Ave, Miami, FL 33177, USA",Group 2
+4876,Valeria,33176,4,22,F,"10700 SW 88th St, Miami, FL 33176, USA",Group 2
+4878,Mariah,33156,2,23,F,"9750 SW 63rd Ct, Miami, FL 33156, USA",Group 2
+4880,Ford,33183,3,24,M,"13101 SW 82nd St, Miami, FL 33183, USA",Group 3
+4881,Ether,33158,3,24,F,"13945 SW 70th Ave, Palmetto Bay, FL 33158, USA",Group 3
+4883,Oma,33035,3,23,F,"1612 S Goldeneye Ln, Homestead, FL 33035, USA",Group 3
+4884,Hassie,33169,3,23,F,"17710 NW 15th Ct, Miami, FL 33169, USA",Group 3
+4885,Gus,33173,1,22,M,"7861 SW 93rd Ave, Miami, FL 33173, USA",Group 3
+4890,Helen,33182,2,19,F,"13618 NW 10th Terrace, Miami, FL 33182, USA",Group 3
+15300,Minor,33033,2,18,M,"14535 SW 298th Terrace, Homestead, FL 33033, USA",Group 2
+15301,Hulda,33183,1,22,F,"7475 SW 118th Ct, Miami, FL 33183, USA",Group 2
+15302,Odell,33015,1,24,M,"8326 NW 180th St, Hialeah, FL 33015, USA",Group 2
+15303,Abigail,33150,4,24,F,"10027 NW 6th Ave, Miami, FL 33150, USA",Group 2
+15304,Maybelle,33013,2,24,F,"53 FL-953, Hialeah, FL 33013, USA",Group 2
+15305,Lollie,33032,4,20,F,"27312 SW 138th Path, Homestead, FL 33032, USA",Group 2
+15306,Will,33189,4,19,M,"20025 Ranch Rd, Cutler Bay, FL 33189, USA",Group 2
+15309,Hyrum,33027,4,20,M,"15953 SW 16th St, Pembroke Pines, FL 33027, USA",Group 2
+15311,Isaiah,33178,1,24,M,"12100 NW 58th St, Miami, FL 33178, USA",Group 2
+15312,Kathrine,33324,3,22,F,"1841 SW 83rd Ave, Davie, FL 33324, USA",Group 2
+15314,Samantha,33014,4,23,F,"6911 Bamboo St, Miami Lakes, FL 33014, USA",Group 2
+15315,Pleas,33135,4,19,M,"1104 SW 31st Ct, Miami, FL 33135, USA",Group 2
+15318,Violet,33142,1,24,F,"5010 NW 21st Ave, Miami, FL 33142, USA",Group 2
+15319,Eugene,33321,4,24,M,"7913 NW 71st Ave, Tamarac, FL 33321, USA",Group 2
+15321,Wiley,33145,2,19,M,"1428 SW 18th St, Miami, FL 33145, USA",Group 3
+15325,Santiago,33189,2,21,M,"9970 Martinique Dr, Cutler Bay, FL 33189, USA",Group 3
+15326,Pedro,33018,3,19,M,"7630 W 30th Ln, Hialeah, FL 33018, USA",Group 3
+15329,Jess,33187,3,25,M,"16800 SW 157th Ave, Miami, FL 33187, USA",Group 3
+15330,Phoebe,33172,3,19,F,"10470 NW 31st Terrace, Miami, FL 33172, USA",Group 3
+15333,Alvin,33030,4,22,M,"17955 SW 291st St, Homestead, FL 33030, USA",Group 3
+15334,David,33322,1,25,M,"2881 N Pine Island Rd, Sunrise, FL 33322, USA",Group 3
+15335,Cordie,33012,1,18,F,"3295 W 14th Ave, Hialeah, FL 33012, USA",Group 3
+15336,Mazie,33331,4,25,F,"3030-3035 Sorrel Ct, Weston, FL 33331, USA",Group 3
+15337,Malinda,33146,3,23,F,"940 Aduana Ave, Coral Gables, FL 33146, USA",Group 3
+15339,Maxie,33176,1,20,F,"10250 SW 102nd Terrace, Miami, FL 33176, USA",Group 3
+15340,Elie,33166,2,23,M,"6875 NW 58th St, Miami, FL 33166, USA",Group 3
+15343,Willie,33189,1,23,F,"20908 Sailfish Ln, Cutler Bay, FL 33189, USA",Group 3
+15344,Orville,33175,3,18,M,"5027 SW 139th Ct, Miami, FL 33175, USA",Group 1
+15345,Will,33138,4,19,M,"985 NE 84th St, Miami, FL 33138, USA",Group 1
+15346,Lucian,33156,1,24,M,"7201 N Kendall Dr, Miami, FL 33156, USA",Group 1
+15347,Wilhelm,33030,3,22,M,"16865 SW 300th St, Homestead, FL 33030, USA",Group 1
+15349,Wilhelm,33147,4,23,M,"6393 NW 17th Ave, Miami, FL 33147, USA",Group 1
+15352,Marguerite,33018,4,23,F,"17240 NW 91st Pl, Hialeah, FL 33018, USA",Group 1
+15354,Ephraim,33028,4,25,M,"2168 NW 141st Ave, Pembroke Pines, FL 33028, USA",Group 1
+15356,Sina,33331,4,24,F,"15836 Waverly Manor, Davie, FL 33331, USA",Group 1
+15358,Grace,33012,3,19,F,"66 W 30th St, Hialeah, FL 33012, USA",Group 1
+15359,Hyrum,33135,1,21,M,"1728 SW 8th St, Miami, FL 33135, USA",Group 1
+15361,Missouri,33178,3,24,F,"10065 NW 46th St, Doral, FL 33178, USA",Group 1
+15364,Rollin,33189,4,19,M,"20701 Island Rd, Cutler Bay, FL 33189, USA",Group 1
+15366,Willian,33178,2,22,M,"6255 SW 102nd St, Doral, FL 33178, USA",Group 1
+15367,Finis,33330,2,23,M,"14601 Mustang Trail, Southwest Ranches, FL 33330, USA",Group 1

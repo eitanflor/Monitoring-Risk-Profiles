@@ -1,0 +1,452 @@
+Academic_Year,Semester,Reference_Number,Course,Section,Course_Name,Department,Day,Credit,Start_Date,End_Date,Time,Enrollment,Subject,Level,Capacity,Campus,Facility
+2020-2021,Fall 2020,83721,ACG2021,U07,Accounting for Decisions,School of Accounting,R,3.00-3.00,2020-08-24,2020-12-05,1400-1645,39,ACG,2021,60,Modesto A. Maidique Campus,GL139
+2020-2021,Fall 2020,83834,ACG2021,RVC,Accounting for Decisions,School of Accounting,,3.00-3.00,2020-08-24,2020-12-05,,32,ACG,2021,100,Online Courses,
+2020-2021,Fall 2020,83901,ACG2021,U04,Accounting for Decisions,School of Accounting,W,3.00-3.00,2020-08-24,2020-12-05,1950-2230,39,ACG,2021,60,Modesto A. Maidique Campus,GL245
+2020-2021,Fall 2020,83918,ACG2021,U02,Accounting for Decisions,School of Accounting,M,3.00-3.00,2020-08-24,2020-12-05,0800-1045,96,ACG,2021,150,Online Courses,
+2020-2021,Fall 2020,83951,ACG2021,U05,Accounting for Decisions,School of Accounting,T,3.00-3.00,2020-08-24,2020-12-05,1950-2230,19,ACG,2021,60,Modesto A. Maidique Campus,MANGO221
+2020-2021,Fall 2020,84091,ACG2021,RVD,Accounting for Decisions,School of Accounting,,3.00-3.00,2020-08-24,2020-12-05,,55,ACG,2021,75,Online Courses,
+2020-2021,Fall 2020,84217,ACG2021,U03,Accounting for Decisions,School of Accounting,W,3.00-3.00,2020-08-24,2020-12-05,1100-1345,48,ACG,2021,60,Modesto A. Maidique Campus,ZEB150
+2020-2021,Fall 2020,87856,ACG2021,U01,Accounting for Decisions,School of Accounting,M,3.00-3.00,2020-08-24,2020-12-05,1700-1940,36,ACG,2021,60,Modesto A. Maidique Campus,GL165
+2020-2021,Fall 2020,87857,ACG2021,U06,Accounting for Decisions,School of Accounting,T,3.00-3.00,2020-08-24,2020-12-05,1100-1345,42,ACG,2021,60,Modesto A. Maidique Campus,MANGO221
+2020-2021,Fall 2020,84051,ACG3024,RVD,Accounting for Managers and Investors,School of Accounting,,3.00-3.00,2020-08-24,2020-12-05,,70,ACG,3024,75,Online Courses,
+2020-2021,Fall 2020,83846,ACG3024,RVC,Accounting for Managers and Investors,School of Accounting,,3.00-3.00,2020-08-24,2020-12-05,,51,ACG,3024,100,Online Courses,
+2020-2021,Fall 2020,83822,ACG3301,RVC,Accounting for Planning and Control,School of Accounting,,3.00-3.00,2020-08-24,2020-12-05,,62,ACG,3301,100,Online Courses,
+2020-2021,Fall 2020,83801,ACG3301,U01,Accounting for Planning and Control,School of Accounting,W,3.00-3.00,2020-08-24,2020-12-05,1200-1445,53,ACG,3301,100,Online Courses,
+2020-2021,Fall 2020,83925,ACG3301,U05,Accounting for Planning and Control,School of Accounting,T,3.00-3.00,2020-08-24,2020-12-05,1700-1940,43,ACG,3301,60,Modesto A. Maidique Campus,OBCC121
+2020-2021,Fall 2020,83896,ACG3301,U03,Accounting for Planning and Control,School of Accounting,M,3.00-3.00,2020-08-24,2020-12-05,1100-1345,41,ACG,3301,60,Modesto A. Maidique Campus,MANGO221
+2020-2021,Fall 2020,83905,ACG3301,U04,Accounting for Planning and Control,School of Accounting,R,3.00-3.00,2020-08-24,2020-12-05,1700-1950,47,ACG,3301,60,Modesto A. Maidique Campus,MANGO221
+2020-2021,Fall 2020,84052,ACG3301,RVD,Accounting for Planning and Control,School of Accounting,,3.00-3.00,2020-08-24,2020-12-05,,66,ACG,3301,75,Online Courses,
+2020-2021,Fall 2020,87858,ACG3301,U02,Accounting for Planning and Control,School of Accounting,R,3.00-3.00,2020-08-24,2020-12-05,1000-1245,48,ACG,3301,60,Modesto A. Maidique Campus,MANGO221
+2020-2021,Fall 2020,90388,ACG3301,U11,Accounting for Planning and Control,School of Accounting,M,3.00-3.00,2020-08-24,2020-12-05,0800-1045,5,ACG,3301,60,Modesto A. Maidique Campus,MANGO221
+2020-2021,Fall 2020,84330,ACG4101,U05,Financial Accounting I,School of Accounting,T,3.00-3.00,2020-08-24,2020-12-05,1700-1940,22,ACG,4101,60,Online Courses,
+2020-2021,Fall 2020,83802,ACG4101,U02,Financial Accounting I,School of Accounting,T,3.00-3.00,2020-08-24,2020-12-05,1100-1345,18,ACG,4101,100,Online Courses,
+2020-2021,Fall 2020,83841,ACG4101,U03,Financial Accounting I,School of Accounting,M,3.00-3.00,2020-08-24,2020-12-05,1100-1345,21,ACG,4101,45,Modesto A. Maidique Campus,PC214
+2020-2021,Fall 2020,83710,ACG4111,U02,Financial Accounting II,School of Accounting,T,3.00-3.00,2020-08-24,2020-12-05,1400-1645,30,ACG,4111,45,Modesto A. Maidique Campus,CBC152
+2020-2021,Fall 2020,83871,ACG4111,U03,Financial Accounting II,School of Accounting,W,3.00-3.00,2020-08-24,2020-12-05,1700-1940,21,ACG,4111,60,Online Courses,
+2020-2021,Fall 2020,83886,ACG4111,U01,Financial Accounting II,School of Accounting,T,3.00-3.00,2020-08-24,2020-12-05,1700-1940,30,ACG,4111,122,Modesto A. Maidique Campus,OE134
+2020-2021,Fall 2020,83872,ACG4341,U01,Management Accounting,School of Accounting,W,3.00-3.00,2020-08-24,2020-12-05,1100-1345,31,ACG,4341,60,Modesto A. Maidique Campus,GL139
+2020-2021,Fall 2020,83839,ACG4341,RVC,Management Accounting,School of Accounting,,3.00-3.00,2020-08-24,2020-12-05,,35,ACG,4341,100,Online Courses,
+2020-2021,Fall 2020,84242,ACG4341,RVD,Management Accounting,School of Accounting,,3.00-3.00,2020-08-24,2020-12-05,,35,ACG,4341,55,FIU Downtown on Brickell,FDBS1010
+2020-2021,Fall 2020,87859,ACG4401,U01,Accounting Information Systems,School of Accounting,M,3.00-3.00,2020-08-24,2020-12-05,1700-1940,26,ACG,4401,45,Modesto A. Maidique Campus,MANGO220
+2020-2021,Fall 2020,83868,ACG4401,RVC,Accounting Information Systems,School of Accounting,,3.00-3.00,2020-08-24,2020-12-05,,35,ACG,4401,75,Online Courses,
+2020-2021,Fall 2020,83856,ACG4401,U02,Accounting Information Systems,School of Accounting,W,3.00-3.00,2020-08-24,2020-12-05,1400-1645,22,ACG,4401,45,Modesto A. Maidique Campus,PC428
+2020-2021,Fall 2020,83857,ACG4651,U02,Auditing,School of Accounting,M,3.00-3.00,2020-08-24,2020-12-05,1700-1940,36,ACG,4651,50,Online Courses,
+2020-2021,Fall 2020,83898,ACG4651,U03,Auditing,School of Accounting,M,3.00-3.00,2020-08-24,2020-12-05,1950-2230,24,ACG,4651,45,Modesto A. Maidique Campus,CBC142
+2020-2021,Fall 2020,83924,ACG4651,U01,Auditing,School of Accounting,T,3.00-3.00,2020-08-24,2020-12-05,0800-1045,23,ACG,4651,50,Online Courses,
+2020-2021,Fall 2020,83926,BUL4310,U07,The Legal Environment of Business,School of Accounting,M,3.00-3.00,2020-08-24,2020-12-05,1400-1645,60,BUL,4310,60,Off Campus,NOROOM
+2020-2021,Fall 2020,83919,BUL4310,U06,The Legal Environment of Business,School of Accounting,W,3.00-3.00,2020-08-24,2020-12-05,1700-1940,20,BUL,4310,100,Online Courses,
+2020-2021,Fall 2020,83858,BUL4310,U01,The Legal Environment of Business,School of Accounting,T,3.00-3.00,2020-08-24,2020-12-05,1100-1345,179,BUL,4310,180,Off Campus,NOROOM
+2020-2021,Fall 2020,83859,BUL4310,P80,The Legal Environment of Business,School of Accounting,T,3.00-3.00,2020-08-24,2020-12-05,1825-2105,46,BUL,4310,50,FIU at I-75,FI75327
+2020-2021,Fall 2020,83889,BUL4310,U02,The Legal Environment of Business,School of Accounting,R,3.00-3.00,2020-08-24,2020-12-05,1700-1940,35,BUL,4310,60,Online Courses,
+2020-2021,Fall 2020,83823,BUL4310,B51,The Legal Environment of Business,School of Accounting,R,3.00-3.00,2020-08-24,2020-12-05,1700-1940,60,BUL,4310,100,Online Courses,
+2020-2021,Fall 2020,83720,BUL4310,U12,The Legal Environment of Business,School of Accounting,W,3.00-3.00,2020-08-24,2020-12-05,1950-2230,55,BUL,4310,60,Modesto A. Maidique Campus,MANGO221
+2020-2021,Fall 2020,84053,BUL4310,U03,The Legal Environment of Business,School of Accounting,M,3.00-3.00,2020-08-24,2020-12-05,1700-1940,50,BUL,4310,50,Off Campus,NOROOM
+2020-2021,Fall 2020,84092,BUL4310,RVD,The Legal Environment of Business,School of Accounting,,3.00-3.00,2020-08-24,2020-12-05,,72,BUL,4310,100,Online Courses,
+2020-2021,Fall 2020,83955,BUL4310,U10,The Legal Environment of Business,School of Accounting,M,3.00-3.00,2020-08-24,2020-12-05,1800-2040,49,BUL,4310,60,Modesto A. Maidique Campus,MANGO221
+2020-2021,Fall 2020,83946,BUL4310,U09,The Legal Environment of Business,School of Accounting,R,3.00-3.00,2020-08-24,2020-12-05,1100-1345,60,BUL,4310,60,Off Campus,NOROOM
+2020-2021,Fall 2020,83947,BUL4310,RXD,The Legal Environment of Business,School of Accounting,W,3.00-3.00,2020-08-24,2020-12-05,1700-1940,12,BUL,4310,150,Online Courses,
+2020-2021,Fall 2020,88081,BUL4310,RK6,The Legal Environment of Business,School of Accounting,S,3.00-3.00,2020-10-17,2020-12-12,0800-1030,15,BUL,4310,30,Modesto A. Maidique Campus,RB140
+2020-2021,Fall 2020,90582,BUL4320,U02,Business Law I,School of Accounting,R,3.00-3.00,2020-08-24,2020-12-05,1400-1645,3,BUL,4320,60,Off Campus,NOROOM
+2020-2021,Fall 2020,83724,BUL4320,U01,Business Law I,School of Accounting,T,3.00-3.00,2020-08-24,2020-12-05,1100-1345,56,BUL,4320,60,Off Campus,NOROOM
+2020-2021,Fall 2020,88594,BUL4321,U01,Business Law II,School of Accounting,W,3.00-3.00,2020-08-24,2020-12-05,1700-1940,45,BUL,4321,45,Off Campus,NOROOM
+2020-2021,Fall 2020,88160,ENT4113,U02,Entrepreneurship: New Business Development,Department of International Business,R,3.00-3.00,2020-08-24,2020-12-05,0800-1045,11,ENT,4113,60,Modesto A. Maidique Campus,RB130
+2020-2021,Fall 2020,88161,ENT4113,U03,Entrepreneurship: New Business Development,Department of International Business,R,3.00-3.00,2020-08-24,2020-12-05,1700-1940,46,ENT,4113,60,Modesto A. Maidique Campus,PC438
+2020-2021,Fall 2020,87917,ENT4113,RVD,Entrepreneurship: New Business Development,Department of International Business,,3.00-3.00,2020-08-24,2020-12-05,,18,ENT,4113,50,Online Courses,
+2020-2021,Fall 2020,87918,ENT4113,RVE,Entrepreneurship: New Business Development,Department of International Business,,3.00-3.00,2020-08-24,2020-12-05,,36,ENT,4113,50,Online Courses,
+2020-2021,Fall 2020,87919,ENT4113,RVF,Entrepreneurship: New Business Development,Department of International Business,,3.00-3.00,2020-08-24,2020-12-05,,50,ENT,4113,50,Online Courses,
+2020-2021,Fall 2020,87920,ENT4113,RVG,Entrepreneurship: New Business Development,Department of International Business,,3.00-3.00,2020-08-24,2020-12-05,,50,ENT,4113,55,FIU Downtown on Brickell,FDBS1010
+2020-2021,Fall 2020,87845,ENT4113,RVC,Entrepreneurship: New Business Development,Department of International Business,,3.00-3.00,2020-08-24,2020-12-05,,3,ENT,4113,50,Online Courses,
+2020-2021,Fall 2020,88162,ENT4704,U01,International Entrepreneurship,Department of International Business,W,3.00-3.00,2020-08-24,2020-12-05,1700-1940,7,ENT,4704,60,Modesto A. Maidique Campus,GL165
+2020-2021,Fall 2020,83928,FIN3005,RVC,Introduction to Business Finance,Department of Finance,,3.00-3.00,2020-08-24,2020-12-05,,48,FIN,3005,50,Online Courses,
+2020-2021,Fall 2020,83804,FIN3140,RVC,Personal Financial Management,Department of Finance,,3.00-3.00,2020-08-24,2020-12-05,,100,FIN,3140,100,Online Courses,
+2020-2021,Fall 2020,83805,FIN3403,U01,Financial Management,Department of Finance,T,3.00-3.00,2020-08-24,2020-12-05,0930-1215,63,FIN,3403,65,Modesto A. Maidique Campus,CBC155
+2020-2021,Fall 2020,83806,FIN3403,B51,Financial Management,Department of Finance,W,3.00-3.00,2020-08-24,2020-12-05,1100-1345,53,FIN,3403,60,Biscayne Bay Campus,AC2115
+2020-2021,Fall 2020,83807,FIN3403,RVC,Financial Management,Department of Finance,,3.00-3.00,2020-08-24,2020-12-05,,50,FIN,3403,50,Online Courses,
+2020-2021,Fall 2020,83792,FIN3403,U05,Financial Management,Department of Finance,M,3.00-3.00,2020-08-24,2020-12-05,1100-1345,60,FIN,3403,60,Modesto A. Maidique Campus,RB140
+2020-2021,Fall 2020,83797,FIN3403,U06,Financial Management,Department of Finance,T,3.00-3.00,2020-08-24,2020-12-05,1700-1940,18,FIN,3403,60,Modesto A. Maidique Campus,PC431
+2020-2021,Fall 2020,83835,FIN3403,P80,Financial Management,Department of Finance,T,3.00-3.00,2020-08-24,2020-12-05,1825-2105,60,FIN,3403,100,Online Courses,
+2020-2021,Fall 2020,83848,FIN3403,RVD,Financial Management,Department of Finance,,3.00-3.00,2020-08-24,2020-12-05,,50,FIN,3403,50,Online Courses,
+2020-2021,Fall 2020,83906,FIN3403,U03,Financial Management,Department of Finance,W,3.00-3.00,2020-08-24,2020-12-05,1700-1940,9,FIN,3403,60,Modesto A. Maidique Campus,MANGO221
+2020-2021,Fall 2020,83867,FIN3403,U02,Financial Management,Department of Finance,R,3.00-3.00,2020-08-24,2020-12-05,0800-1045,180,FIN,3403,180,Off Campus,NOROOM
+2020-2021,Fall 2020,83882,FIN3403,RVE,Financial Management,Department of Finance,,3.00-3.00,2020-08-24,2020-12-05,,50,FIN,3403,50,Online Courses,
+2020-2021,Fall 2020,84261,FIN3403,RVI,Financial Management,Department of Finance,,3.00-3.00,2020-08-24,2020-12-05,,50,FIN,3403,50,FIU Downtown on Brickell,FDBS328
+2020-2021,Fall 2020,84300,FIN3403,RVJ,Financial Management,Department of Finance,,3.00-3.00,2020-08-24,2020-12-05,,50,FIN,3403,40,Modesto A. Maidique Campus,RB170
+2020-2021,Fall 2020,84113,FIN3403,RVH,Financial Management,Department of Finance,,3.00-3.00,2020-08-24,2020-12-05,,50,FIN,3403,180,Modesto A. Maidique Campus,GL100
+2020-2021,Fall 2020,83950,FIN3403,U04,Financial Management,Department of Finance,T,3.00-3.00,2020-08-24,2020-12-05,1400-1645,56,FIN,3403,100,Online Courses,
+2020-2021,Fall 2020,83963,FIN3403,RVF,Financial Management,Department of Finance,,3.00-3.00,2020-08-24,2020-12-05,,50,FIN,3403,60,Online Courses,
+2020-2021,Fall 2020,83965,FIN3403,RVG,Financial Management,Department of Finance,,3.00-3.00,2020-08-24,2020-12-05,,51,FIN,3403,150,Online Courses,
+2020-2021,Fall 2020,84110,FIN3403,U07,Financial Management,Department of Finance,M,3.00-3.00,2020-08-24,2020-12-05,1700-1940,57,FIN,3403,60,Modesto A. Maidique Campus,RB140
+2020-2021,Fall 2020,90620,FIN3403,RVL,Financial Management,Department of Finance,,3.00-3.00,2020-08-24,2020-12-05,,25,FIN,3403,25,Online Courses,
+2020-2021,Fall 2020,89902,FIN3403,U08,Financial Management,Department of Finance,T,3.00-3.00,2020-08-24,2020-12-05,0930-1215,58,FIN,3403,58,Modesto A. Maidique Campus,CBC152
+2020-2021,Fall 2020,88840,FIN3414,RVD,Intermediate Finance,Department of Finance,,3.00-3.00,2020-08-24,2020-12-05,,59,FIN,3414,50,Online Courses,
+2020-2021,Fall 2020,84245,FIN3414,U04,Intermediate Finance,Department of Finance,T,3.00-3.00,2020-08-24,2020-12-05,1400-1645,58,FIN,3414,60,Modesto A. Maidique Campus,MANGO221
+2020-2021,Fall 2020,83887,FIN3414,U02,Intermediate Finance,Department of Finance,T,3.00-3.00,2020-08-24,2020-12-05,1700-1940,57,FIN,3414,60,Modesto A. Maidique Campus,PC438
+2020-2021,Fall 2020,83922,FIN3414,RXD,Intermediate Finance,Department of Finance,R,3.00-3.00,2020-08-24,2020-12-05,1100-1345,11,FIN,3414,50,Online Courses,
+2020-2021,Fall 2020,83843,FIN3414,U01,Intermediate Finance,Department of Finance,R,3.00-3.00,2020-08-24,2020-12-05,1100-1345,20,FIN,3414,100,Online Courses,
+2020-2021,Fall 2020,83824,FIN3414,RVC,Intermediate Finance,Department of Finance,,3.00-3.00,2020-08-24,2020-12-05,,50,FIN,3414,100,Online Courses,
+2020-2021,Fall 2020,83881,FIN3560,U01,Student Managed Investment Fund I,Department of Finance,R,3.00-3.00,2020-08-24,2020-12-05,1700-1940,5,FIN,3560,50,Online Courses,
+2020-2021,Fall 2020,83929,FIN4303,RVC,Financial Markets and Institutions,Department of Finance,,3.00-3.00,2020-08-24,2020-12-05,,50,FIN,4303,60,Online Courses,
+2020-2021,Fall 2020,83849,FIN4303,RVD,Financial Markets and Institutions,Department of Finance,,3.00-3.00,2020-08-24,2020-12-05,,50,FIN,4303,50,Online Courses,
+2020-2021,Fall 2020,83780,FIN4303,U02,Financial Markets and Institutions,Department of Finance,T,3.00-3.00,2020-08-24,2020-12-05,1100-1345,58,FIN,4303,100,Online Courses,
+2020-2021,Fall 2020,83808,FIN4303,U01,Financial Markets and Institutions,Department of Finance,W,3.00-3.00,2020-08-24,2020-12-05,1400-1645,58,FIN,4303,60,Modesto A. Maidique Campus,MANGO221
+2020-2021,Fall 2020,84246,FIN4303,U03,Financial Markets and Institutions,Department of Finance,W,3.00-3.00,2020-08-24,2020-12-05,1700-1940,60,FIN,4303,60,Modesto A. Maidique Campus,RB140
+2020-2021,Fall 2020,84262,FIN4303,RVE,Financial Markets and Institutions,Department of Finance,,3.00-3.00,2020-08-24,2020-12-05,,45,FIN,4303,50,FIU Downtown on Brickell,FDBS301
+2020-2021,Fall 2020,84263,FIN4324,RVE,Commercial Bank Management,Department of Finance,,3.00-3.00,2020-08-24,2020-12-05,,55,FIN,4324,50,FIU at I-75,FI75423
+2020-2021,Fall 2020,84244,FIN4324,U03,Commercial Bank Management,Department of Finance,R,3.00-3.00,2020-08-24,2020-12-05,1100-1345,56,FIN,4324,60,Modesto A. Maidique Campus,PC439
+2020-2021,Fall 2020,83825,FIN4324,RVC,Commercial Bank Management,Department of Finance,,3.00-3.00,2020-08-24,2020-12-05,,50,FIN,4324,50,Online Courses,
+2020-2021,Fall 2020,83913,FIN4324,U02,Commercial Bank Management,Department of Finance,W,3.00-3.00,2020-08-24,2020-12-05,0800-1045,57,FIN,4324,60,Modesto A. Maidique Campus,RB130
+2020-2021,Fall 2020,83876,FIN4324,RVD,Commercial Bank Management,Department of Finance,,3.00-3.00,2020-08-24,2020-12-05,,55,FIN,4324,50,Online Courses,
+2020-2021,Fall 2020,83860,FIN4324,U01,Commercial Bank Management,Department of Finance,T,3.00-3.00,2020-08-24,2020-12-05,1700-1940,58,FIN,4324,60,Modesto A. Maidique Campus,PC439
+2020-2021,Fall 2020,83850,FIN4345,RVC,Credit Analysis and Loan Evaluation,Department of Finance,,3.00-3.00,2020-08-24,2020-12-05,,50,FIN,4345,50,Modesto A. Maidique Campus,MANGO222
+2020-2021,Fall 2020,83779,FIN4486,RVE,Financial Risk Management-Financial Engineering,Department of Finance,,3.00-3.00,2020-08-24,2020-12-05,,47,FIN,4486,25,Online Courses,
+2020-2021,Fall 2020,83831,FIN4486,U01,Financial Risk Management-Financial Engineering,Department of Finance,M,3.00-3.00,2020-08-24,2020-12-05,1700-1940,57,FIN,4486,100,Online Courses,
+2020-2021,Fall 2020,83809,FIN4486,RVC,Financial Risk Management-Financial Engineering,Department of Finance,,3.00-3.00,2020-08-24,2020-12-05,,47,FIN,4486,50,Online Courses,
+2020-2021,Fall 2020,83884,FIN4486,RVD,Financial Risk Management-Financial Engineering,Department of Finance,,3.00-3.00,2020-08-24,2020-12-05,,50,FIN,4486,50,Online Courses,
+2020-2021,Fall 2020,84054,FIN4486,U02,Financial Risk Management-Financial Engineering,Department of Finance,M,3.00-3.00,2020-08-24,2020-12-05,1100-1345,58,FIN,4486,60,Modesto A. Maidique Campus,GL139
+2020-2021,Fall 2020,84111,FIN4502,U04,Securities Analysis,Department of Finance,W,3.00-3.00,2020-08-24,2020-12-05,1100-1345,18,FIN,4502,48,Modesto A. Maidique Campus,CBC252
+2020-2021,Fall 2020,84112,FIN4502,RXD,Securities Analysis,Department of Finance,W,3.00-3.00,2020-08-24,2020-12-05,1100-1345,12,FIN,4502,45,Modesto A. Maidique Campus,ZEB110
+2020-2021,Fall 2020,84247,FIN4502,RVE,Securities Analysis,Department of Finance,,3.00-3.00,2020-08-24,2020-12-05,,48,FIN,4502,45,FIU Downtown on Brickell,FDBS201
+2020-2021,Fall 2020,83914,FIN4502,RVC,Securities Analysis,Department of Finance,,3.00-3.00,2020-08-24,2020-12-05,,50,FIN,4502,180,Modesto A. Maidique Campus,RB120
+2020-2021,Fall 2020,83930,FIN4502,RVD,Securities Analysis,Department of Finance,,3.00-3.00,2020-08-24,2020-12-05,,50,FIN,4502,50,Online Courses,
+2020-2021,Fall 2020,83810,FIN4502,U01,Securities Analysis,Department of Finance,T,3.00-3.00,2020-08-24,2020-12-05,1400-1645,48,FIN,4502,50,Online Courses,
+2020-2021,Fall 2020,83778,FIN4502,U03,Securities Analysis,Department of Finance,T,3.00-3.00,2020-08-24,2020-12-05,1700-1940,48,FIN,4502,50,Online Courses,
+2020-2021,Fall 2020,83811,FIN4604,U01,International Financial Management,Department of Finance,T,3.00-3.00,2020-08-24,2020-12-05,1100-1345,60,FIN,4604,60,Modesto A. Maidique Campus,MANGO222
+2020-2021,Fall 2020,83812,FIN4604,RVC,International Financial Management,Department of Finance,,3.00-3.00,2020-08-24,2020-12-05,,50,FIN,4604,50,Online Courses,
+2020-2021,Fall 2020,83826,FIN4604,B51,International Financial Management,Department of Finance,W,3.00-3.00,2020-08-24,2020-12-05,1700-1940,59,FIN,4604,60,Biscayne Bay Campus,AC1155
+2020-2021,Fall 2020,83851,FIN4604,RVD,International Financial Management,Department of Finance,,3.00-3.00,2020-08-24,2020-12-05,,50,FIN,4604,50,FIU Downtown on Brickell,FDBS301
+2020-2021,Fall 2020,83931,FIN4604,RVF,International Financial Management,Department of Finance,,3.00-3.00,2020-08-24,2020-12-05,,50,FIN,4604,50,Online Courses,
+2020-2021,Fall 2020,83893,FIN4604,RVE,International Financial Management,Department of Finance,,3.00-3.00,2020-08-24,2020-12-05,,50,FIN,4604,50,Online Courses,
+2020-2021,Fall 2020,84248,FIN4604,RVG,International Financial Management,Department of Finance,,3.00-3.00,2020-08-24,2020-12-05,,50,FIN,4604,45,Modesto A. Maidique Campus,CBC152
+2020-2021,Fall 2020,84201,FIN4604,U02,International Financial Management,Department of Finance,W,3.00-3.00,2020-08-24,2020-12-05,1400-1645,60,FIN,4604,60,Off Campus,NOROOM
+2020-2021,Fall 2020,90586,FIN4604,U03,International Financial Management,Department of Finance,R,3.00-3.00,2020-08-24,2020-12-05,1400-1645,6,FIN,4604,40,Off Campus,NOROOM
+2020-2021,Fall 2020,90587,FIN4604,RXD,International Financial Management,Department of Finance,R,3.00-3.00,2020-08-24,2020-12-05,1400-1645,15,FIN,4604,50,Online Courses,
+2020-2021,Fall 2020,83861,FIN4634,U01,International Banking,Department of Finance,W,3.00-3.00,2020-08-24,2020-12-05,1700-1940,49,FIN,4634,60,Modesto A. Maidique Campus,RB130
+2020-2021,Fall 2020,83813,FIN4634,RVC,International Banking,Department of Finance,,3.00-3.00,2020-08-24,2020-12-05,,37,FIN,4634,50,Online Courses,
+2020-2021,Fall 2020,83799,FIN4651,RVC,Latin American Financial Markets and Institutions,Department of Finance,,3.00-3.00,2020-08-24,2020-12-05,,9,FIN,4651,50,Online Courses,
+2020-2021,Fall 2020,83927,FIN4663,U01,Global Private Banking,Department of Finance,W,3.00-3.00,2020-08-24,2020-12-05,1950-2230,34,FIN,4663,60,Modesto A. Maidique Campus,GL139
+2020-2021,Fall 2020,83932,FIN4744,RVC,Financial Crime,Department of Finance,,3.00-3.00,2020-08-24,2020-12-05,,28,FIN,4744,50,Online Courses,
+2020-2021,Fall 2020,83842,FIN4941,U01,Finance Internship,Department of Finance,,1.00-3.00,2020-08-24,2020-12-05,,1,FIN,4941,100,Online Courses,
+2020-2021,Fall 2020,87932,GEB2011,RVD,Introduction to Business,Department of Global Leadership and Management,,3.00-3.00,2020-08-24,2020-12-05,,44,GEB,2011,60,Online Courses,
+2020-2021,Fall 2020,87933,GEB3003,RVF,Career Management,Interdisciplinary,,1.00-1.00,2020-08-24,2020-12-05,,32,GEB,3003,50,Online Courses,
+2020-2021,Fall 2020,87928,GEB3003,RVC,Career Management,Interdisciplinary,,1.00-1.00,2020-08-24,2020-12-05,,50,GEB,3003,50,Online Courses,
+2020-2021,Fall 2020,87929,GEB3003,RVD,Career Management,Interdisciplinary,,1.00-1.00,2020-08-24,2020-12-05,,50,GEB,3003,50,Online Courses,
+2020-2021,Fall 2020,87930,GEB3003,RVE,Career Management,Interdisciplinary,,1.00-1.00,2020-08-24,2020-12-05,,50,GEB,3003,50,Online Courses,
+2020-2021,Fall 2020,87942,GEB3003,RVG,Career Management,Interdisciplinary,,1.00-1.00,2020-08-24,2020-12-05,,50,GEB,3003,50,Online Courses,
+2020-2021,Fall 2020,87943,GEB3003,RVH,Career Management,Interdisciplinary,,1.00-1.00,2020-08-24,2020-12-05,,50,GEB,3003,50,Online Courses,
+2020-2021,Fall 2020,87944,GEB3003,RVI,Career Management,Interdisciplinary,,1.00-1.00,2020-08-24,2020-12-05,,50,GEB,3003,50,Online Courses,
+2020-2021,Fall 2020,87945,GEB3003,RVJ,Career Management,Interdisciplinary,,1.00-1.00,2020-08-24,2020-12-05,,50,GEB,3003,50,Online Courses,
+2020-2021,Fall 2020,87946,GEB3003,RVK,Career Management,Interdisciplinary,,1.00-1.00,2020-08-24,2020-12-05,,50,GEB,3003,50,Online Courses,
+2020-2021,Fall 2020,87947,GEB3003,RVL,Career Management,Interdisciplinary,,1.00-1.00,2020-08-24,2020-12-05,,50,GEB,3003,55,Online Courses,
+2020-2021,Fall 2020,87949,GEB3003,RVM,Career Management,Interdisciplinary,,1.00-1.00,2020-08-24,2020-12-05,,50,GEB,3003,55,Online Courses,
+2020-2021,Fall 2020,88905,GEB3003,RXD,Career Management,Interdisciplinary,M,1.00-1.00,2020-08-24,2020-12-05,1200-1250,11,GEB,3003,18,Modesto A. Maidique Campus,CBC122
+2020-2021,Fall 2020,88906,GEB3003,RXE,Career Management,Interdisciplinary,M,1.00-1.00,2020-08-24,2020-12-05,1300-1350,12,GEB,3003,58,Modesto A. Maidique Campus,CBC152
+2020-2021,Fall 2020,88478,GEB3003,U01,Career Management,Interdisciplinary,M,1.00-1.00,2020-08-24,2020-12-05,0900-0950,16,GEB,3003,26,Modesto A. Maidique Campus,CBC122
+2020-2021,Fall 2020,88479,GEB3003,U02,Career Management,Interdisciplinary,M,1.00-1.00,2020-08-24,2020-12-05,1000-1050,21,GEB,3003,50,Modesto A. Maidique Campus,SIPA103
+2020-2021,Fall 2020,88480,GEB3003,U03,Career Management,Interdisciplinary,M,1.00-1.00,2020-08-24,2020-12-05,1100-1150,23,GEB,3003,50,Modesto A. Maidique Campus,CBC154
+2020-2021,Fall 2020,88481,GEB3003,U04,Career Management,Interdisciplinary,M,1.00-1.00,2020-08-24,2020-12-05,1500-1550,24,GEB,3003,26,Modesto A. Maidique Campus,CBC122
+2020-2021,Fall 2020,88482,GEB3003,U05,Career Management,Interdisciplinary,M,1.00-1.00,2020-08-24,2020-12-05,1600-1650,15,GEB,3003,26,Modesto A. Maidique Campus,CBC122
+2020-2021,Fall 2020,88483,GEB3003,U06,Career Management,Interdisciplinary,M,1.00-1.00,2020-08-24,2020-12-05,1700-1750,14,GEB,3003,26,Modesto A. Maidique Campus,CBC122
+2020-2021,Fall 2020,88484,GEB3003,U07,Career Management,Interdisciplinary,T,1.00-1.00,2020-08-24,2020-12-05,0900-0950,22,GEB,3003,26,Modesto A. Maidique Campus,CBC122
+2020-2021,Fall 2020,88485,GEB3003,U08,Career Management,Interdisciplinary,T,1.00-1.00,2020-08-24,2020-12-05,1000-1050,21,GEB,3003,26,Modesto A. Maidique Campus,CBC122
+2020-2021,Fall 2020,88486,GEB3003,U09,Career Management,Interdisciplinary,T,1.00-1.00,2020-08-24,2020-12-05,1100-1150,21,GEB,3003,26,Modesto A. Maidique Campus,CBC122
+2020-2021,Fall 2020,88487,GEB3003,U10,Career Management,Interdisciplinary,T,1.00-1.00,2020-08-24,2020-12-05,1500-1550,24,GEB,3003,26,Modesto A. Maidique Campus,CBC122
+2020-2021,Fall 2020,88488,GEB3003,U11,Career Management,Interdisciplinary,T,1.00-1.00,2020-08-24,2020-12-05,1600-1650,21,GEB,3003,26,Modesto A. Maidique Campus,CBC122
+2020-2021,Fall 2020,88489,GEB3003,U12,Career Management,Interdisciplinary,T,1.00-1.00,2020-08-24,2020-12-05,1700-1750,18,GEB,3003,50,Modesto A. Maidique Campus,PC211
+2020-2021,Fall 2020,88495,GEB3003,U13,Career Management,Interdisciplinary,F,1.00-1.00,2020-08-24,2020-12-05,0900-0950,13,GEB,3003,26,Modesto A. Maidique Campus,CBC122
+2020-2021,Fall 2020,88496,GEB3003,U14,Career Management,Interdisciplinary,F,1.00-1.00,2020-08-24,2020-12-05,1100-1150,22,GEB,3003,30,Modesto A. Maidique Campus,CBC254
+2020-2021,Fall 2020,88497,GEB3003,U15,Career Management,Interdisciplinary,M,1.00-1.00,2020-08-24,2020-12-05,1200-1250,9,GEB,3003,45,Modesto A. Maidique Campus,MANGO221
+2020-2021,Fall 2020,88498,GEB3003,U16,Career Management,Interdisciplinary,M,1.00-1.00,2020-08-24,2020-12-05,1300-1350,9,GEB,3003,50,FIU Downtown on Brickell,FDBS1010
+2020-2021,Fall 2020,88499,GEB3003,B51,Career Management,Interdisciplinary,M,1.00-1.00,2020-08-24,2020-12-05,1825-1915,21,GEB,3003,50,FIU Downtown on Brickell,FDBS1010
+2020-2021,Fall 2020,88500,GEB3003,P80,Career Management,Interdisciplinary,T,1.00-1.00,2020-08-24,2020-12-05,1825-1915,15,GEB,3003,50,FIU Downtown on Brickell,FDBS1010
+2020-2021,Fall 2020,87937,GEB4110,RVC,Writing the Business Plan,Department of Global Leadership and Management,,3.00-3.00,2020-08-24,2020-12-05,,61,GEB,4110,60,Online Courses,
+2020-2021,Fall 2020,84154,ISM3011,RVH,Introduction to Information Systems Management,Department of Information Systems and Business Analytics,,3.00-3.00,2020-08-24,2020-12-05,,50,ISM,3011,50,Online Courses,
+2020-2021,Fall 2020,84155,ISM3011,RVI,Introduction to Information Systems Management,Department of Information Systems and Business Analytics,,3.00-3.00,2020-08-24,2020-12-05,,50,ISM,3011,60,Modesto A. Maidique Campus,MANGO221
+2020-2021,Fall 2020,84127,ISM3011,U05,Introduction to Information Systems Management,Department of Information Systems and Business Analytics,M,3.00-3.00,2020-08-24,2020-12-05,1700-1940,29,ISM,3011,60,Online Courses,
+2020-2021,Fall 2020,84108,ISM3011,RVG,Introduction to Information Systems Management,Department of Information Systems and Business Analytics,,3.00-3.00,2020-08-24,2020-12-05,,50,ISM,3011,50,Online Courses,
+2020-2021,Fall 2020,84042,ISM3011,U01,Introduction to Information Systems Management,Department of Information Systems and Business Analytics,M,3.00-3.00,2020-08-24,2020-12-05,1100-1345,64,ISM,3011,78,Modesto A. Maidique Campus,RB130
+2020-2021,Fall 2020,84043,ISM3011,U02,Introduction to Information Systems Management,Department of Information Systems and Business Analytics,T,3.00-3.00,2020-08-24,2020-12-05,1700-1940,8,ISM,3011,115,Online Courses,
+2020-2021,Fall 2020,83961,ISM3011,RVD,Introduction to Information Systems Management,Department of Information Systems and Business Analytics,,3.00-3.00,2020-08-24,2020-12-05,,50,ISM,3011,60,Online Courses,
+2020-2021,Fall 2020,83956,ISM3011,P80,Introduction to Information Systems Management,Department of Information Systems and Business Analytics,T,3.00-3.00,2020-08-24,2020-12-05,1825-2105,42,ISM,3011,55,FIU at I-75,FI75326
+2020-2021,Fall 2020,83957,ISM3011,U03,Introduction to Information Systems Management,Department of Information Systems and Business Analytics,W,3.00-3.00,2020-08-24,2020-12-05,1400-1645,65,ISM,3011,78,Modesto A. Maidique Campus,RB130
+2020-2021,Fall 2020,83958,ISM3011,U04,Introduction to Information Systems Management,Department of Information Systems and Business Analytics,R,3.00-3.00,2020-08-24,2020-12-05,1950-2230,74,ISM,3011,78,Modesto A. Maidique Campus,RB130
+2020-2021,Fall 2020,83959,ISM3011,B51,Introduction to Information Systems Management,Department of Information Systems and Business Analytics,W,3.00-3.00,2020-08-24,2020-12-05,1700-1940,39,ISM,3011,60,Online Courses,
+2020-2021,Fall 2020,83774,ISM3011,RVC,Introduction to Information Systems Management,Department of Information Systems and Business Analytics,,3.00-3.00,2020-08-24,2020-12-05,,55,ISM,3011,100,Online Courses,
+2020-2021,Fall 2020,83775,ISM3011,RVE,Introduction to Information Systems Management,Department of Information Systems and Business Analytics,,3.00-3.00,2020-08-24,2020-12-05,,51,ISM,3011,100,Online Courses,
+2020-2021,Fall 2020,83776,ISM3011,RVF,Introduction to Information Systems Management,Department of Information Systems and Business Analytics,,3.00-3.00,2020-08-24,2020-12-05,,50,ISM,3011,100,Online Courses,
+2020-2021,Fall 2020,83962,ISM3012,RVC,Introduction to Decision and Information Systems,Department of Information Systems and Business Analytics,,3.00-3.00,2020-08-24,2020-12-05,,50,ISM,3012,60,Online Courses,
+2020-2021,Fall 2020,83862,ISM3153,U01,Business Process Analysis,Department of Information Systems and Business Analytics,M,3.00-3.00,2020-08-24,2020-12-05,1100-1345,48,ISM,3153,50,Online Courses,
+2020-2021,Fall 2020,83921,ISM3230,U01,Business Application Development,Department of Information Systems and Business Analytics,M,3.00-3.00,2020-08-24,2020-12-05,1100-1345,19,ISM,3230,60,Biscayne Bay Campus,AC2110
+2020-2021,Fall 2020,83960,ISM3230,U02,Business Application Development,Department of Information Systems and Business Analytics,W,3.00-3.00,2020-08-24,2020-12-05,1700-1940,25,ISM,3230,60,Online Courses,
+2020-2021,Fall 2020,83814,ISM4113,U01,Systems Analysis and Design,Department of Information Systems and Business Analytics,R,3.00-3.00,2020-08-24,2020-12-05,1700-1940,41,ISM,4113,48,Modesto A. Maidique Campus,RB150
+2020-2021,Fall 2020,83863,ISM4151,U01,Managing the IS Function and Technology Innovation,Department of Information Systems and Business Analytics,T,3.00-3.00,2020-08-24,2020-12-05,1400-1645,18,ISM,4151,60,Online Courses,
+2020-2021,Fall 2020,83815,ISM4210,U01,Data Base Applications,Department of Information Systems and Business Analytics,W,3.00-3.00,2020-08-24,2020-12-05,1700-1940,38,ISM,4210,48,Modesto A. Maidique Campus,RB150
+2020-2021,Fall 2020,84046,ISM4211,U01,Database Systems and Physcial Design,Department of Information Systems and Business Analytics,M,3.00-3.00,2020-08-24,2020-12-05,1100-1345,40,ISM,4211,45,Modesto A. Maidique Campus,GC285
+2020-2021,Fall 2020,89176,ISM4220,U01A,Business Telecommunication Systems,Department of Information Systems and Business Analytics,T,1.00-1.00,2020-08-24,2020-10-10,1700-1940,35,ISM,4220,48,Modesto A. Maidique Campus,RB150
+2020-2021,Fall 2020,84140,ISM4314,U01,Project Management,Department of Information Systems and Business Analytics,M,3.00-3.00,2020-08-24,2020-12-05,1700-1940,28,ISM,4314,50,Online Courses,
+2020-2021,Fall 2020,84243,ISM4314,U02,Project Management,Department of Information Systems and Business Analytics,R,3.00-3.00,2020-08-24,2020-12-05,1700-1940,29,ISM,4314,55,FIU Downtown on Brickell,FDBS1010
+2020-2021,Fall 2020,89177,ISM4323,U01B,Information Systems Security and Compliance,Department of Information Systems and Business Analytics,T,2.00-2.00,2020-10-19,2020-12-05,1700-1940,36,ISM,4323,48,Modesto A. Maidique Campus,RB150
+2020-2021,Fall 2020,84153,ISM4400,RVD,Management Support Systems,Department of Information Systems and Business Analytics,,3.00-3.00,2020-08-24,2020-12-05,,8,ISM,4400,50,Biscayne Bay Campus,AC2115
+2020-2021,Fall 2020,83816,ISM4400,U01,Management Support Systems,Department of Information Systems and Business Analytics,M,3.00-3.00,2020-08-24,2020-12-05,1950-2230,36,ISM,4400,48,Modesto A. Maidique Campus,RB150
+2020-2021,Fall 2020,83793,ISM4400,RVC,Management Support Systems,Department of Information Systems and Business Analytics,,3.00-3.00,2020-08-24,2020-12-05,,45,ISM,4400,45,Online Courses,
+2020-2021,Fall 2020,84237,ISM4402,U02,Business Intelligence and Reporting,Department of Information Systems and Business Analytics,T,3.00-3.00,2020-08-24,2020-12-05,1100-1345,32,ISM,4402,45,Modesto A. Maidique Campus,MANGO222
+2020-2021,Fall 2020,83952,ISM4402,U01,Business Intelligence and Reporting,Department of Information Systems and Business Analytics,W,3.00-3.00,2020-08-24,2020-12-05,1100-1345,39,ISM,4402,59,Biscayne Bay Campus,AC2110
+2020-2021,Fall 2020,84236,ISM4420,U02,Business Analytics,Department of Information Systems and Business Analytics,W,3.00-3.00,2020-08-24,2020-12-05,1400-1645,36,ISM,4420,48,Modesto A. Maidique Campus,CBC252
+2020-2021,Fall 2020,83923,ISM4420,U01,Business Analytics,Department of Information Systems and Business Analytics,T,3.00-3.00,2020-08-24,2020-12-05,1100-1345,40,ISM,4420,60,Modesto A. Maidique Campus,MANGO221
+2020-2021,Fall 2020,89600,ISM4452,U01,Blockchain for Business,Department of Information Systems and Business Analytics,M,3.00-3.00,2020-08-24,2020-12-05,1700-1940,16,ISM,4452,49,Modesto A. Maidique Campus,CBC252
+2020-2021,Fall 2020,87939,MAN3022,RVC,Introduction to Management,Department of Global Leadership and Management,,3.00-3.00,2020-08-24,2020-12-05,,39,MAN,3022,60,Online Courses,
+2020-2021,Fall 2020,87966,MAN3025,RVH,Organization and Management,Department of Global Leadership and Management,,3.00-3.00,2020-08-24,2020-12-05,,50,MAN,3025,60,Online Courses,
+2020-2021,Fall 2020,87967,MAN3025,RVI,Organization and Management,Department of Global Leadership and Management,,3.00-3.00,2020-08-24,2020-12-05,,50,MAN,3025,60,Online Courses,
+2020-2021,Fall 2020,87968,MAN3025,RVJ,Organization and Management,Department of Global Leadership and Management,,3.00-3.00,2020-08-24,2020-12-05,,60,MAN,3025,60,Online Courses,
+2020-2021,Fall 2020,87959,MAN3025,RVF,Organization and Management,Department of Global Leadership and Management,,3.00-3.00,2020-08-24,2020-12-05,,50,MAN,3025,60,Online Courses,
+2020-2021,Fall 2020,87962,MAN3025,RVG,Organization and Management,Department of Global Leadership and Management,,3.00-3.00,2020-08-24,2020-12-05,,60,MAN,3025,60,Online Courses,
+2020-2021,Fall 2020,87970,MAN3025,RVK,Organization and Management,Department of Global Leadership and Management,,3.00-3.00,2020-08-24,2020-12-05,,50,MAN,3025,60,Online Courses,
+2020-2021,Fall 2020,88448,MAN3025,U01,Organization and Management,Department of Global Leadership and Management,T,3.00-3.00,2020-08-24,2020-12-05,1825-2105,78,MAN,3025,130,Modesto A. Maidique Campus,DM100
+2020-2021,Fall 2020,88449,MAN3025,U03,Organization and Management,Department of Global Leadership and Management,W,3.00-3.00,2020-08-24,2020-12-05,1100-1345,40,MAN,3025,50,Modesto A. Maidique Campus,MANGO220
+2020-2021,Fall 2020,88452,MAN3025,P80,Organization and Management,Department of Global Leadership and Management,W,3.00-3.00,2020-08-24,2020-12-05,1825-2105,14,MAN,3025,55,FIU at I-75,FI75328
+2020-2021,Fall 2020,88438,MAN3025,U02,Organization and Management,Department of Global Leadership and Management,F,3.00-3.00,2020-08-24,2020-12-05,0800-1045,95,MAN,3025,130,Modesto A. Maidique Campus,MANGO221
+2020-2021,Fall 2020,88439,MAN3025,U04,Organization and Management,Department of Global Leadership and Management,R,3.00-3.00,2020-08-24,2020-12-05,1100-1345,105,MAN,3025,120,Off Campus,NOROOM
+2020-2021,Fall 2020,87954,MAN3025,RVD,Organization and Management,Department of Global Leadership and Management,,3.00-3.00,2020-08-24,2020-12-05,,50,MAN,3025,60,Online Courses,
+2020-2021,Fall 2020,87956,MAN3025,RVE,Organization and Management,Department of Global Leadership and Management,,3.00-3.00,2020-08-24,2020-12-05,,50,MAN,3025,60,Online Courses,
+2020-2021,Fall 2020,87948,MAN3025,RVC,Organization and Management,Department of Global Leadership and Management,,3.00-3.00,2020-08-24,2020-12-05,,47,MAN,3025,120,Online Courses,
+2020-2021,Fall 2020,88468,MAN3072,U01,American Culture in Business,Department of International Business,R,3.00-3.00,2020-08-24,2020-12-05,1825-2105,22,MAN,3072,60,Modesto A. Maidique Campus,GL100A
+2020-2021,Fall 2020,87972,MAN3100,RVC,Happiness at Work,Department of Global Leadership and Management,,3.00-3.00,2020-08-24,2020-12-05,,64,MAN,3100,60,Online Courses,
+2020-2021,Fall 2020,87974,MAN3100,RVD,Happiness at Work,Department of Global Leadership and Management,,3.00-3.00,2020-08-24,2020-12-05,,60,MAN,3100,60,Online Courses,
+2020-2021,Fall 2020,88514,MAN3100,U01,Happiness at Work,Department of Global Leadership and Management,T,3.00-3.00,2020-08-24,2020-12-05,1400-1645,280,MAN,3100,280,Off Campus,NOROOM
+2020-2021,Fall 2020,88027,MAN4054,RVC,Managing Innovation,Department of International Business,,3.00-3.00,2020-08-24,2020-12-05,,36,MAN,4054,50,Online Courses,
+2020-2021,Fall 2020,87980,MAN4064,RVC,Crisis Management,Department of Global Leadership and Management,,3.00-3.00,2020-08-24,2020-12-05,,60,MAN,4064,60,Online Courses,
+2020-2021,Fall 2020,87981,MAN4065,RVC,Business Ethics,Department of Global Leadership and Management,,3.00-3.00,2020-08-24,2020-12-05,,60,MAN,4065,60,Online Courses,
+2020-2021,Fall 2020,87983,MAN4065,RVD,Business Ethics,Department of Global Leadership and Management,,3.00-3.00,2020-08-24,2020-12-05,,64,MAN,4065,60,Online Courses,
+2020-2021,Fall 2020,88437,MAN4065,U01,Business Ethics,Department of Global Leadership and Management,W,3.00-3.00,2020-08-24,2020-12-05,1100-1345,47,MAN,4065,100,Online Courses,
+2020-2021,Fall 2020,88473,MAN4102,U01,Managing Diversity,Department of Global Leadership and Management,R,3.00-3.00,2020-08-24,2020-12-05,1100-1345,54,MAN,4102,60,Off Campus,NOROOM
+2020-2021,Fall 2020,87984,MAN4120,RVC,Managing Virtual Teams,Department of Global Leadership and Management,,3.00-3.00,2020-08-24,2020-12-05,,43,MAN,4120,60,Online Courses,
+2020-2021,Fall 2020,87986,MAN4151,RVC,Organizational Behavior,Department of Global Leadership and Management,,3.00-3.00,2020-08-24,2020-12-05,,60,MAN,4151,60,Online Courses,
+2020-2021,Fall 2020,87987,MAN4151,RVD,Organizational Behavior,Department of Global Leadership and Management,,3.00-3.00,2020-08-24,2020-12-05,,50,MAN,4151,60,Online Courses,
+2020-2021,Fall 2020,88436,MAN4151,U01,Organizational Behavior,Department of Global Leadership and Management,M,3.00-3.00,2020-08-24,2020-12-05,1000-1245,23,MAN,4151,100,Online Courses,
+2020-2021,Fall 2020,87989,MAN4164,RVC,Leadership,Department of Global Leadership and Management,,3.00-3.00,2020-08-24,2020-12-05,,50,MAN,4164,50,Online Courses,
+2020-2021,Fall 2020,87990,MAN4301,RVC,Human Resource Management,Department of Global Leadership and Management,,3.00-3.00,2020-08-24,2020-12-05,,60,MAN,4301,60,Online Courses,
+2020-2021,Fall 2020,87992,MAN4301,RVD,Human Resource Management,Department of Global Leadership and Management,,3.00-3.00,2020-08-24,2020-12-05,,50,MAN,4301,60,Online Courses,
+2020-2021,Fall 2020,87993,MAN4301,RVE,Human Resource Management,Department of Global Leadership and Management,,3.00-3.00,2020-08-24,2020-12-05,,51,MAN,4301,50,Online Courses,
+2020-2021,Fall 2020,88459,MAN4301,U01,Human Resource Management,Department of Global Leadership and Management,R,3.00-3.00,2020-08-24,2020-12-05,0800-1045,46,MAN,4301,60,Modesto A. Maidique Campus,CBC155
+2020-2021,Fall 2020,88460,MAN4301,P80,Human Resource Management,Department of Global Leadership and Management,R,3.00-3.00,2020-08-24,2020-12-05,1825-2105,13,MAN,4301,60,FIU at I-75,FI75422
+2020-2021,Fall 2020,88591,MAN4320,U01,Recruitment and Staffing,Department of Global Leadership and Management,T,3.00-3.00,2020-08-24,2020-12-05,1700-1940,33,MAN,4320,60,Off Campus,NOROOM
+2020-2021,Fall 2020,87998,MAN4322,RVC,Human Resource Information Systems,Department of Global Leadership and Management,,3.00-3.00,2020-08-24,2020-12-05,,61,MAN,4322,60,Online Courses,
+2020-2021,Fall 2020,88458,MAN4330,U01,Compensation and Benefits,Department of Global Leadership and Management,M,3.00-3.00,2020-08-24,2020-12-05,1400-1645,21,MAN,4330,60,Off Campus,NOROOM
+2020-2021,Fall 2020,88000,MAN4350,RVC,Training and Development,Department of Global Leadership and Management,,3.00-3.00,2020-08-24,2020-12-05,,61,MAN,4350,60,Online Courses,
+2020-2021,Fall 2020,88001,MAN4410,RVC,Union-Management Relations,Department of Global Leadership and Management,,3.00-3.00,2020-08-24,2020-12-05,,66,MAN,4410,60,Online Courses,
+2020-2021,Fall 2020,88032,MAN4442,RVC,International Business Negotiations,Department of International Business,,3.00-3.00,2020-08-24,2020-12-05,,36,MAN,4442,50,Online Courses,
+2020-2021,Fall 2020,88592,MAN4442,U01,International Business Negotiations,Department of International Business,T,3.00-3.00,2020-08-24,2020-12-05,1825-2105,28,MAN,4442,50,Modesto A. Maidique Campus,VH131
+2020-2021,Fall 2020,88979,MAN4442,RVD,International Business Negotiations,Department of International Business,,3.00-3.00,2020-08-24,2020-12-05,,49,MAN,4442,50,Online Courses,
+2020-2021,Fall 2020,89901,MAN4600,RVF,International Management,Department of International Business,,3.00-3.00,2020-08-24,2020-12-05,,37,MAN,4600,50,Online Courses,
+2020-2021,Fall 2020,88516,MAN4600,U01,International Management,Department of International Business,T,3.00-3.00,2020-08-24,2020-12-05,1400-1645,20,MAN,4600,50,Online Courses,
+2020-2021,Fall 2020,88517,MAN4600,U02,International Management,Department of International Business,W,3.00-3.00,2020-08-24,2020-12-05,1825-2105,22,MAN,4600,50,Online Courses,
+2020-2021,Fall 2020,88970,MAN4600,RXD,International Management,Department of International Business,T,3.00-3.00,2020-08-24,2020-12-05,1400-1645,19,MAN,4600,25,Modesto A. Maidique Campus,VH131
+2020-2021,Fall 2020,88971,MAN4600,RXE,International Management,Department of International Business,W,3.00-3.00,2020-08-24,2020-12-05,1825-2105,10,MAN,4600,35,Modesto A. Maidique Campus,CBC254
+2020-2021,Fall 2020,88028,MAN4600,RVD,International Management,Department of International Business,,3.00-3.00,2020-08-24,2020-12-05,,50,MAN,4600,50,Online Courses,
+2020-2021,Fall 2020,88029,MAN4600,RVE,International Management,Department of International Business,,3.00-3.00,2020-08-24,2020-12-05,,50,MAN,4600,50,Online Courses,
+2020-2021,Fall 2020,88082,MAN4600,RK6,International Management,Department of International Business,S,3.00-3.00,2020-10-17,2020-12-12,1045-1315,21,MAN,4600,30,Modesto A. Maidique Campus,RB140
+2020-2021,Fall 2020,88470,MAN4602,U01,International Business,Department of International Business,W,3.00-3.00,2020-08-24,2020-12-05,1400-1645,31,MAN,4602,60,Modesto A. Maidique Campus,MANGO222
+2020-2021,Fall 2020,88471,MAN4602,U02,International Business,Department of International Business,M,3.00-3.00,2020-08-24,2020-12-05,1100-1345,33,MAN,4602,55,Modesto A. Maidique Campus,SIPA220
+2020-2021,Fall 2020,88472,MAN4602,B51,International Business,Department of International Business,T,3.00-3.00,2020-08-24,2020-12-05,1100-1345,17,MAN,4602,60,Biscayne Bay Campus,AC1155
+2020-2021,Fall 2020,88002,MAN4602,RVC,International Business,Department of International Business,,3.00-3.00,2020-08-24,2020-12-05,,50,MAN,4602,50,Online Courses,
+2020-2021,Fall 2020,87999,MAN4602,RVG,International Business,Department of International Business,,3.00-3.00,2020-08-24,2020-12-05,,50,MAN,4602,50,Online Courses,
+2020-2021,Fall 2020,88008,MAN4602,RVD,International Business,Department of International Business,,3.00-3.00,2020-08-24,2020-12-05,,40,MAN,4602,50,Online Courses,
+2020-2021,Fall 2020,88016,MAN4602,RVE,International Business,Department of International Business,,3.00-3.00,2020-08-24,2020-12-05,,22,MAN,4602,50,Online Courses,
+2020-2021,Fall 2020,88004,MAN4610,RVC,International Human Resources,Department of Global Leadership and Management,,3.00-3.00,2020-08-24,2020-12-05,,60,MAN,4610,60,Online Courses,
+2020-2021,Fall 2020,87996,MAN4613,RVC,International Risk Assessment,Department of International Business,,3.00-3.00,2020-08-24,2020-12-05,,29,MAN,4613,50,Online Courses,
+2020-2021,Fall 2020,87994,MAN4633,RVE,MNC Strategy,Department of International Business,,3.00-3.00,2020-08-24,2020-12-05,,36,MAN,4633,50,Online Courses,
+2020-2021,Fall 2020,87991,MAN4633,RVD,MNC Strategy,Department of International Business,,3.00-3.00,2020-08-24,2020-12-05,,50,MAN,4633,50,Online Courses,
+2020-2021,Fall 2020,87988,MAN4633,RVC,MNC Strategy,Department of International Business,,3.00-3.00,2020-08-24,2020-12-05,,50,MAN,4633,50,Online Courses,
+2020-2021,Fall 2020,88457,MAN4633,U01,MNC Strategy,Department of International Business,W,3.00-3.00,2020-08-24,2020-12-05,1825-2105,36,MAN,4633,55,Modesto A. Maidique Campus,CBC154
+2020-2021,Fall 2020,87985,MAN4653,RVC,Foreign Direct Investment,Department of International Business,,3.00-3.00,2020-08-24,2020-12-05,,34,MAN,4653,50,Online Courses,
+2020-2021,Fall 2020,87982,MAN4660,RVC,Business in Latin America,Department of International Business,,3.00-3.00,2020-08-24,2020-12-05,,29,MAN,4660,50,Online Courses,
+2020-2021,Fall 2020,87976,MAN4662,RVC,Business in Europe,Department of International Business,,3.00-3.00,2020-08-24,2020-12-05,,8,MAN,4662,50,Online Courses,
+2020-2021,Fall 2020,89344,MAN4671,RVC,Special Topics in International Business,Department of International Business,,3.00-3.00,2020-08-24,2020-12-05,,21,MAN,4671,50,Online Courses,
+2020-2021,Fall 2020,88447,MAN4673,U01,Trade Policy and Business,Department of International Business,M,3.00-3.00,2020-08-24,2020-12-05,1700-1940,28,MAN,4673,60,Modesto A. Maidique Campus,MANGO222
+2020-2021,Fall 2020,89539,MAN4690,U01,Independent Study in International Business,Department of International Business,W,3.00-3.00,2020-08-24,2020-12-05,1400-1645,1,MAN,4690,2,Modesto A. Maidique Campus,MANGO434
+2020-2021,Fall 2020,88440,MAN4701,U01,Business In Society,Department of International Business,T,3.00-3.00,2020-08-24,2020-12-05,1825-1940,6,MAN,4701,100,Online Courses,
+2020-2021,Fall 2020,88513,MAN4711,U01,Business-Community Leadership,Department of Global Leadership and Management,W,3.00-3.00,2020-08-24,2020-12-05,1700-1940,30,MAN,4711,50,Off Campus,NOROOM
+2020-2021,Fall 2020,89879,MAN4720,RVBB,Strategic Management,Department of International Business,,3.00-3.00,2020-10-19,2020-12-05,,17,MAN,4720,50,Online Courses,
+2020-2021,Fall 2020,89515,MAN4720,RVK,Strategic Management,Department of International Business,,3.00-3.00,2020-08-24,2020-12-05,,50,MAN,4720,50,Online Courses,
+2020-2021,Fall 2020,89900,MAN4720,RVL,Strategic Management,Department of International Business,,3.00-3.00,2020-08-24,2020-12-05,,50,MAN,4720,50,Online Courses,
+2020-2021,Fall 2020,90411,MAN4720,RVM,Strategic Management,Department of International Business,,3.00-3.00,2020-08-24,2020-12-05,,16,MAN,4720,50,Online Courses,
+2020-2021,Fall 2020,88462,MAN4720,U01,Strategic Management,Department of International Business,R,3.00-3.00,2020-08-24,2020-12-05,1700-1940,42,MAN,4720,60,Modesto A. Maidique Campus,RB140
+2020-2021,Fall 2020,88463,MAN4720,U02,Strategic Management,Department of International Business,W,3.00-3.00,2020-08-24,2020-12-05,1100-1345,57,MAN,4720,60,Modesto A. Maidique Campus,MANGO222
+2020-2021,Fall 2020,88464,MAN4720,U03,Strategic Management,Department of International Business,R,3.00-3.00,2020-08-24,2020-12-05,1100-1345,45,MAN,4720,55,Modesto A. Maidique Campus,PC438
+2020-2021,Fall 2020,88465,MAN4720,U04,Strategic Management,Department of International Business,M,3.00-3.00,2020-08-24,2020-12-05,1825-2105,50,MAN,4720,60,Modesto A. Maidique Campus,PC431
+2020-2021,Fall 2020,88466,MAN4720,B51,Strategic Management,Department of International Business,M,3.00-3.00,2020-08-24,2020-12-05,1100-1345,23,MAN,4720,60,Biscayne Bay Campus,WUC221
+2020-2021,Fall 2020,88467,MAN4720,P80,Strategic Management,Department of International Business,W,3.00-3.00,2020-08-24,2020-12-05,1825-2105,22,MAN,4720,56,FIU at I-75,FI75422
+2020-2021,Fall 2020,87973,MAN4720,RVJ,Strategic Management,Department of International Business,,3.00-3.00,2020-08-24,2020-12-05,,50,MAN,4720,50,Online Courses,
+2020-2021,Fall 2020,87971,MAN4720,RVI,Strategic Management,Department of International Business,,3.00-3.00,2020-08-24,2020-12-05,,50,MAN,4720,50,Online Courses,
+2020-2021,Fall 2020,87965,MAN4720,RVG,Strategic Management,Department of International Business,,3.00-3.00,2020-08-24,2020-12-05,,49,MAN,4720,50,Online Courses,
+2020-2021,Fall 2020,87969,MAN4720,RVH,Strategic Management,Department of International Business,,3.00-3.00,2020-08-24,2020-12-05,,50,MAN,4720,50,Online Courses,
+2020-2021,Fall 2020,87958,MAN4720,RVF,Strategic Management,Department of International Business,,3.00-3.00,2020-08-24,2020-12-05,,50,MAN,4720,50,Online Courses,
+2020-2021,Fall 2020,87952,MAN4720,RVE,Strategic Management,Department of International Business,,3.00-3.00,2020-08-24,2020-12-05,,50,MAN,4720,50,Online Courses,
+2020-2021,Fall 2020,87938,MAN4720,RVD,Strategic Management,Department of International Business,,3.00-3.00,2020-08-24,2020-12-05,,49,MAN,4720,50,Online Courses,
+2020-2021,Fall 2020,87922,MAN4720,RVC,Strategic Management,Department of International Business,,3.00-3.00,2020-08-24,2020-12-05,,50,MAN,4720,55,Modesto A. Maidique Campus,FDBS1015
+2020-2021,Fall 2020,88005,MAN4771,RVC,Executive Skills Development,Department of Global Leadership and Management,,3.00-3.00,2020-08-24,2020-12-05,,60,MAN,4771,60,Online Courses,
+2020-2021,Fall 2020,88083,MAN4771,RK6,Executive Skills Development,Department of Global Leadership and Management,S,3.00-3.00,2020-08-22,2020-10-10,0800-1030,12,MAN,4771,45,Modesto A. Maidique Campus,RB140
+2020-2021,Fall 2020,88986,MAN4771,RVD,Executive Skills Development,Department of Global Leadership and Management,,3.00-3.00,2020-08-24,2020-12-05,,60,MAN,4771,60,Online Courses,
+2020-2021,Fall 2020,87916,MAN4802,RVC,Small Business Management,Department of International Business,,3.00-3.00,2020-08-24,2020-12-05,,49,MAN,4802,50,Online Courses,
+2020-2021,Fall 2020,87914,MAN4864,RVC,Family Business,Department of International Business,,3.00-3.00,2020-08-24,2020-12-05,,6,MAN,4864,50,Online Courses,
+2020-2021,Fall 2020,87913,MAN4946,RVC,International Business Internship,Department of International Business,,1.00-3.00,2020-08-24,2020-12-05,,1,MAN,4946,10,Online Courses,
+2020-2021,Fall 2020,88904,MAN4970,U01,International Business Honors Project Seminar,Department of International Business,T,3.00-3.00,2020-08-24,2020-12-05,1400-1645,10,MAN,4970,16,Modesto A. Maidique Campus,CBC142
+2020-2021,Fall 2020,88920,MAR3023,U05A,Introduction to Marketing,Department of Marketing & Logistics,T,3.00-3.00,2020-08-24,2020-10-10,1700-1940,19,MAR,3023,50,Modesto A. Maidique Campus,GC283A
+2020-2021,Fall 2020,88921,MAR3023,U11,Introduction to Marketing,Department of Marketing & Logistics,W,3.00-3.00,2020-08-24,2020-12-05,1400-1645,42,MAR,3023,50,Modesto A. Maidique Campus,CBC152
+2020-2021,Fall 2020,89116,MAR3023,U12,Introduction to Marketing,Department of Marketing & Logistics,W,3.00-3.00,2020-08-24,2020-12-05,1825-2105,135,MAR,3023,135,Off Campus,NOROOM
+2020-2021,Fall 2020,89949,MAR3023,RVBB,Introduction to Marketing,Department of Marketing & Logistics,,3.00-3.00,2020-10-19,2020-12-05,,50,MAR,3023,50,Online Courses,
+2020-2021,Fall 2020,84151,MAR3023,RVAA,Introduction to Marketing,Department of Marketing & Logistics,,3.00-3.00,2020-08-24,2020-12-05,,50,MAR,3023,50,Online Courses,
+2020-2021,Fall 2020,83944,MAR3023,U07,Introduction to Marketing,Department of Marketing & Logistics,R,3.00-3.00,2020-08-24,2020-12-05,1400-1515,46,MAR,3023,50,Modesto A. Maidique Campus,MANGO221
+2020-2021,Fall 2020,83978,MAR3023,RVC,Introduction to Marketing,Department of Marketing & Logistics,,3.00-3.00,2020-08-24,2020-12-05,,50,MAR,3023,50,Online Courses,
+2020-2021,Fall 2020,83979,MAR3023,RVD,Introduction to Marketing,Department of Marketing & Logistics,,3.00-3.00,2020-08-24,2020-12-05,,50,MAR,3023,50,Online Courses,
+2020-2021,Fall 2020,83907,MAR3023,B52,Introduction to Marketing,Department of Marketing & Logistics,M,3.00-3.00,2020-08-24,2020-12-05,1100-1345,50,MAR,3023,50,FIU Downtown on Brickell,FDBS301
+2020-2021,Fall 2020,83899,MAR3023,RVG,Introduction to Marketing,Department of Marketing & Logistics,,3.00-3.00,2020-08-24,2020-12-05,,50,MAR,3023,50,Online Courses,
+2020-2021,Fall 2020,83900,MAR3023,U04,Introduction to Marketing,Department of Marketing & Logistics,T,3.00-3.00,2020-08-24,2020-12-05,0640-0755,43,MAR,3023,60,Modesto A. Maidique Campus,SIPA100
+2020-2021,Fall 2020,83866,MAR3023,U02,Introduction to Marketing,Department of Marketing & Logistics,T,3.00-3.00,2020-08-24,2020-12-05,1400-1645,119,MAR,3023,135,Modesto A. Maidique Campus,RDB1100
+2020-2021,Fall 2020,83873,MAR3023,U03,Introduction to Marketing,Department of Marketing & Logistics,M,3.00-3.00,2020-08-24,2020-12-05,1100-1345,43,MAR,3023,50,Modesto A. Maidique Campus,MANGO222
+2020-2021,Fall 2020,83788,MAR3023,U10,Introduction to Marketing,Department of Marketing & Logistics,R,3.00-3.00,2020-08-24,2020-12-05,1825-2105,48,MAR,3023,50,Modesto A. Maidique Campus,DM100
+2020-2021,Fall 2020,83783,MAR3023,RVH,Introduction to Marketing,Department of Marketing & Logistics,,3.00-3.00,2020-08-24,2020-12-05,,50,MAR,3023,100,Online Courses,
+2020-2021,Fall 2020,83785,MAR3023,U08,Introduction to Marketing,Department of Marketing & Logistics,W,3.00-3.00,2020-08-24,2020-12-05,1100-1345,47,MAR,3023,100,Online Courses,
+2020-2021,Fall 2020,83844,MAR3023,B51,Introduction to Marketing,Department of Marketing & Logistics,W,3.00-3.00,2020-08-24,2020-12-05,1700-1940,50,MAR,3023,50,Off Campus,NOROOM
+2020-2021,Fall 2020,83828,MAR3023,U01,Introduction to Marketing,Department of Marketing & Logistics,W,3.00-3.00,2020-08-24,2020-12-05,1400-1645,112,MAR,3023,135,Modesto A. Maidique Campus,SIPA125
+2020-2021,Fall 2020,83894,MAR3024,RVC,Marketing Fundamentals,Department of Marketing & Logistics,,3.00-3.00,2020-08-24,2020-12-05,,50,MAR,3024,50,Online Courses,
+2020-2021,Fall 2020,83791,MAR4025,U01,Marketing of Small Business Enterprises,Department of Marketing & Logistics,R,3.00-3.00,2020-08-24,2020-12-05,1100-1345,46,MAR,4025,46,Off Campus,NOROOM
+2020-2021,Fall 2020,84214,MAR4025,RVC,Marketing of Small Business Enterprises,Department of Marketing & Logistics,,3.00-3.00,2020-08-24,2020-12-05,,50,MAR,4025,50,Online Courses,
+2020-2021,Fall 2020,83786,MAR4144,U02,Export Marketing,Department of Marketing & Logistics,R,3.00-3.00,2020-08-24,2020-12-05,1100-1215,37,MAR,4144,50,Modesto A. Maidique Campus,CBC152
+2020-2021,Fall 2020,83840,MAR4144,RVC,Export Marketing,Department of Marketing & Logistics,,3.00-3.00,2020-08-24,2020-12-05,,50,MAR,4144,100,Online Courses,
+2020-2021,Fall 2020,83838,MAR4144,U01,Export Marketing,Department of Marketing & Logistics,T,3.00-3.00,2020-08-24,2020-12-05,1700-1940,25,MAR,4144,100,Online Courses,
+2020-2021,Fall 2020,83895,MAR4156,RXE,International Marketing,Department of Marketing & Logistics,R,3.00-3.00,2020-08-24,2020-12-05,1700-1940,8,MAR,4156,35,Off Campus,NOROOM
+2020-2021,Fall 2020,83890,MAR4156,U02,International Marketing,Department of Marketing & Logistics,R,3.00-3.00,2020-08-24,2020-12-05,1700-1940,19,MAR,4156,60,Online Courses,
+2020-2021,Fall 2020,83892,MAR4156,U01,International Marketing,Department of Marketing & Logistics,W,3.00-3.00,2020-08-24,2020-12-05,1400-1645,36,MAR,4156,50,Online Courses,
+2020-2021,Fall 2020,83915,MAR4156,RVD,International Marketing,Department of Marketing & Logistics,,3.00-3.00,2020-08-24,2020-12-05,,50,MAR,4156,50,Online Courses,
+2020-2021,Fall 2020,83833,MAR4156,RVBB,International Marketing,Department of Marketing & Logistics,,3.00-3.00,2020-10-19,2020-12-05,,50,MAR,4156,100,Online Courses,
+2020-2021,Fall 2020,83980,MAR4156,RVE,International Marketing,Department of Marketing & Logistics,,3.00-3.00,2020-08-24,2020-12-05,,50,MAR,4156,50,Online Courses,
+2020-2021,Fall 2020,88084,MAR4156,RK6,International Marketing,Department of Marketing & Logistics,S,3.00-3.00,2020-08-22,2020-10-10,1045-1315,16,MAR,4156,30,Modesto A. Maidique Campus,RB140
+2020-2021,Fall 2020,83989,MAR4203,U01,Marketing Channels,Department of Marketing & Logistics,W,3.00-3.00,2020-08-24,2020-12-05,1100-1345,45,MAR,4203,50,Modesto A. Maidique Campus,CBC152
+2020-2021,Fall 2020,83853,MAR4203,RVC,Marketing Channels,Department of Marketing & Logistics,,3.00-3.00,2020-08-24,2020-12-05,,51,MAR,4203,50,Online Courses,
+2020-2021,Fall 2020,84082,MAR4231,U01,Retail Marketing,Department of Marketing & Logistics,T,3.00-3.00,2020-08-24,2020-12-05,1400-1645,50,MAR,4231,50,Off Campus,NOROOM
+2020-2021,Fall 2020,84215,MAR4231,RVC,Retail Marketing,Department of Marketing & Logistics,,3.00-3.00,2020-08-24,2020-12-05,,50,MAR,4231,50,Online Courses,
+2020-2021,Fall 2020,84083,MAR4232,U01,Current Issues in Retail Marketing,Department of Marketing & Logistics,T,3.00-3.00,2020-08-24,2020-12-05,1700-1940,7,MAR,4232,60,Online Courses,
+2020-2021,Fall 2020,83939,MAR4233,B51,Social Media Marketing,Department of Marketing & Logistics,M,3.00-3.00,2020-08-24,2020-12-05,1100-1345,49,MAR,4233,49,Off Campus,NOROOM
+2020-2021,Fall 2020,83969,MAR4233,U02,Social Media Marketing,Department of Marketing & Logistics,W,3.00-3.00,2020-08-24,2020-12-05,1700-1940,50,MAR,4233,50,Modesto A. Maidique Campus,MANGO220
+2020-2021,Fall 2020,84209,MAR4233,RVD,Social Media Marketing,Department of Marketing & Logistics,,3.00-3.00,2020-08-24,2020-12-05,,50,MAR,4233,50,Online Courses,
+2020-2021,Fall 2020,83916,MAR4233,RVC,Social Media Marketing,Department of Marketing & Logistics,,3.00-3.00,2020-08-24,2020-12-05,,50,MAR,4233,50,Online Courses,
+2020-2021,Fall 2020,83904,MAR4233,U01,Social Media Marketing,Department of Marketing & Logistics,T,3.00-3.00,2020-08-24,2020-12-05,0800-1045,48,MAR,4233,60,Modesto A. Maidique Campus,MANGO221
+2020-2021,Fall 2020,83953,MAR4323,B51,Integrated Marketing Communication,Department of Marketing & Logistics,M,3.00-3.00,2020-08-24,2020-12-05,1400-1645,16,MAR,4323,50,Off Campus,NOROOM
+2020-2021,Fall 2020,83940,MAR4354,RVD,Marketing Yourself in Today's Competitive Job Mark,Department of Marketing & Logistics,,3.00-3.00,2020-08-24,2020-12-05,,46,MAR,4354,60,Online Courses,
+2020-2021,Fall 2020,83941,MAR4354,RVE,Marketing Yourself in Today's Competitive Job Mark,Department of Marketing & Logistics,,3.00-3.00,2020-08-24,2020-12-05,,45,MAR,4354,60,Online Courses,
+2020-2021,Fall 2020,84084,MAR4354,RVG,Marketing Yourself in Today's Competitive Job Mark,Department of Marketing & Logistics,,3.00-3.00,2020-08-24,2020-12-05,,48,MAR,4354,70,Online Courses,
+2020-2021,Fall 2020,83983,MAR4354,U04,Marketing Yourself in Today's Competitive Job Mark,Department of Marketing & Logistics,R,3.00-3.00,2020-08-24,2020-12-05,1825-2105,19,MAR,4354,50,Online Courses,
+2020-2021,Fall 2020,83908,MAR4354,U03,Marketing Yourself in Today's Competitive Job Mark,Department of Marketing & Logistics,R,3.00-3.00,2020-08-24,2020-12-05,0640-0755,34,MAR,4354,50,Modesto A. Maidique Campus,MANGO222
+2020-2021,Fall 2020,83909,MAR4354,U01,Marketing Yourself in Today's Competitive Job Mark,Department of Marketing & Logistics,M/W,3.00-3.00,2020-08-24,2020-12-05,1200-1250,35,MAR,4354,49,Modesto A. Maidique Campus,CBC252
+2020-2021,Fall 2020,83903,MAR4354,RVC,Marketing Yourself in Today's Competitive Job Mark,Department of Marketing & Logistics,,3.00-3.00,2020-08-24,2020-12-05,,28,MAR,4354,50,Online Courses,
+2020-2021,Fall 2020,83864,MAR4354,U02,Marketing Yourself in Today's Competitive Job Mark,Department of Marketing & Logistics,W,3.00-3.00,2020-08-24,2020-12-05,1700-1940,10,MAR,4354,45,Modesto A. Maidique Campus,CBC140
+2020-2021,Fall 2020,83800,MAR4354,B51,Marketing Yourself in Today's Competitive Job Mark,Department of Marketing & Logistics,M,3.00-3.00,2020-08-24,2020-12-05,1100-1345,41,MAR,4354,45,Off Campus,NOROOM
+2020-2021,Fall 2020,89953,MAR4354,RVAA,Marketing Yourself in Today's Competitive Job Mark,Department of Marketing & Logistics,,3.00-3.00,2020-08-24,2020-10-10,,48,MAR,4354,50,Online Courses,
+2020-2021,Fall 2020,89103,MAR4354,U06,Marketing Yourself in Today's Competitive Job Mark,Department of Marketing & Logistics,M,3.00-3.00,2020-08-24,2020-12-05,1825-2105,8,MAR,4354,50,Modesto A. Maidique Campus,ZEB120
+2020-2021,Fall 2020,83784,MAR4400,RVD,Personal Selling,Department of Marketing & Logistics,,3.00-3.00,2020-08-24,2020-12-05,,50,MAR,4400,100,Online Courses,
+2020-2021,Fall 2020,83865,MAR4400,U01,Personal Selling,Department of Marketing & Logistics,W,3.00-3.00,2020-08-24,2020-12-05,1100-1345,39,MAR,4400,50,Off Campus,NOROOM
+2020-2021,Fall 2020,83888,MAR4400,U02,Personal Selling,Department of Marketing & Logistics,R,3.00-3.00,2020-08-24,2020-12-05,1100-1345,28,MAR,4400,60,Online Courses,
+2020-2021,Fall 2020,83880,MAR4400,RVC,Personal Selling,Department of Marketing & Logistics,,3.00-3.00,2020-08-24,2020-12-05,,50,MAR,4400,50,Online Courses,
+2020-2021,Fall 2020,83982,MAR4400,U05,Personal Selling,Department of Marketing & Logistics,R,3.00-3.00,2020-08-24,2020-12-05,1700-1940,46,MAR,4400,50,Modesto A. Maidique Campus,MANGO220
+2020-2021,Fall 2020,83974,MAR4400,U04,Personal Selling,Department of Marketing & Logistics,M,3.00-3.00,2020-08-24,2020-12-05,1100-1345,41,MAR,4400,60,Online Courses,
+2020-2021,Fall 2020,84197,MAR4400,U03,Personal Selling,Department of Marketing & Logistics,M,3.00-3.00,2020-08-24,2020-12-05,1100-1345,15,MAR,4400,50,Modesto A. Maidique Campus,CBC152
+2020-2021,Fall 2020,83971,MAR4403,U01,Sales Management,Department of Marketing & Logistics,M,3.00-3.00,2020-08-24,2020-12-05,1400-1645,17,MAR,4403,50,Modesto A. Maidique Campus,MANGO221
+2020-2021,Fall 2020,88917,MAR4404,RVC,Business-to-Business Sales and Marketing,Department of Marketing & Logistics,,3.00-3.00,2020-08-24,2020-12-05,,50,MAR,4404,50,Online Courses,
+2020-2021,Fall 2020,83973,MAR4415,U01,Advanced Professional Selling,Department of Marketing & Logistics,M,3.00-3.00,2020-08-24,2020-12-05,1700-1940,21,MAR,4415,50,Modesto A. Maidique Campus,GL100B
+2020-2021,Fall 2020,83986,MAR4503,U02,Consumer Behavior,Department of Marketing & Logistics,W,3.00-3.00,2020-08-24,2020-12-05,1400-1645,50,MAR,4503,60,Online Courses,
+2020-2021,Fall 2020,84152,MAR4503,RVE,Consumer Behavior,Department of Marketing & Logistics,,3.00-3.00,2020-08-24,2020-12-05,,50,MAR,4503,50,Online Courses,
+2020-2021,Fall 2020,83897,MAR4503,RVD,Consumer Behavior,Department of Marketing & Logistics,,3.00-3.00,2020-08-24,2020-12-05,,50,MAR,4503,50,Online Courses,
+2020-2021,Fall 2020,83854,MAR4503,RVC,Consumer Behavior,Department of Marketing & Logistics,,3.00-3.00,2020-08-24,2020-12-05,,50,MAR,4503,50,Online Courses,
+2020-2021,Fall 2020,90244,MAR4503,RVF,Consumer Behavior,Department of Marketing & Logistics,,3.00-3.00,2020-08-24,2020-12-05,,15,MAR,4503,50,Online Courses,
+2020-2021,Fall 2020,90538,MAR4613,RXD,Marketing Research I,Department of Marketing & Logistics,R,3.00-3.00,2020-08-24,2020-12-05,1100-1345,12,MAR,4613,13,Modesto A. Maidique Campus,PC214
+2020-2021,Fall 2020,83855,MAR4613,RVC,Marketing Research I,Department of Marketing & Logistics,,3.00-3.00,2020-08-24,2020-12-05,,50,MAR,4613,50,Online Courses,
+2020-2021,Fall 2020,83818,MAR4613,U01,Marketing Research I,Department of Marketing & Logistics,W,3.00-3.00,2020-08-24,2020-12-05,0800-1045,30,MAR,4613,45,Modesto A. Maidique Campus,CP117
+2020-2021,Fall 2020,83933,MAR4613,RVD,Marketing Research I,Department of Marketing & Logistics,,3.00-3.00,2020-08-24,2020-12-05,,50,MAR,4613,70,Modesto A. Maidique Campus,CBC155
+2020-2021,Fall 2020,83891,MAR4613,U02,Marketing Research I,Department of Marketing & Logistics,R,3.00-3.00,2020-08-24,2020-12-05,1100-1345,24,MAR,4613,60,Online Courses,
+2020-2021,Fall 2020,83967,MAR4613,P80,Marketing Research I,Department of Marketing & Logistics,T,3.00-3.00,2020-08-24,2020-12-05,1400-1645,25,MAR,4613,55,FIU at I-75,FI75424
+2020-2021,Fall 2020,83975,MAR4620,U01,Marketing Research II,Department of Marketing & Logistics,R,3.00-3.00,2020-08-24,2020-12-05,1100-1345,25,MAR,4620,60,Biscayne Bay Campus,AC1155
+2020-2021,Fall 2020,84301,MAR4643,RVC,Decision Making and Negotiations,Department of Marketing & Logistics,,3.00-3.00,2020-08-24,2020-12-05,,46,MAR,4643,55,Modesto A. Maidique Campus,CBC254
+2020-2021,Fall 2020,83911,MAR4674,U01,Marketing Analytics,Department of Marketing & Logistics,T,3.00-3.00,2020-08-24,2020-12-05,1400-1645,46,MAR,4674,50,Modesto A. Maidique Campus,MANGO220
+2020-2021,Fall 2020,83917,MAR4674,RVC,Marketing Analytics,Department of Marketing & Logistics,,3.00-3.00,2020-08-24,2020-12-05,,51,MAR,4674,50,Online Courses,
+2020-2021,Fall 2020,83949,MAR4711,RVC,Sports Marketing and Sponsorship,Department of Marketing & Logistics,,3.00-3.00,2020-08-24,2020-12-05,,46,MAR,4711,60,Online Courses,
+2020-2021,Fall 2020,89032,MAR4711,U01,Sports Marketing and Sponsorship,Department of Marketing & Logistics,M,3.00-3.00,2020-08-24,2020-12-05,1700-1940,26,MAR,4711,50,Modesto A. Maidique Campus,CASE135
+2020-2021,Fall 2020,89033,MAR4712,U01,Health and Fitness Marketing,Department of Marketing & Logistics,M,3.00-3.00,2020-08-24,2020-12-05,1700-1940,10,MAR,4712,50,Modesto A. Maidique Campus,CASE135
+2020-2021,Fall 2020,83948,MAR4712,RVC,Health and Fitness Marketing,Department of Marketing & Logistics,,3.00-3.00,2020-08-24,2020-12-05,,44,MAR,4712,60,Biscayne Bay Campus,WUC221
+2020-2021,Fall 2020,83945,MAR4733,U01,Digital Marketing,Department of Marketing & Logistics,T,3.00-3.00,2020-08-24,2020-12-05,0800-1045,47,MAR,4733,48,Modesto A. Maidique Campus,MANGO220
+2020-2021,Fall 2020,83970,MAR4733,U02,Digital Marketing,Department of Marketing & Logistics,W,3.00-3.00,2020-08-24,2020-12-05,1700-1940,50,MAR,4733,60,Modesto A. Maidique Campus,MANGO222
+2020-2021,Fall 2020,83885,MAR4733,RVC,Digital Marketing,Department of Marketing & Logistics,,3.00-3.00,2020-08-24,2020-12-05,,115,MAR,4733,115,Online Courses,
+2020-2021,Fall 2020,83829,MAR4804,U01,Marketing Strategy,Department of Marketing & Logistics,M,3.00-3.00,2020-08-24,2020-12-05,1100-1345,38,MAR,4804,100,Online Courses,
+2020-2021,Fall 2020,83830,MAR4804,U02,Marketing Strategy,Department of Marketing & Logistics,R,3.00-3.00,2020-08-24,2020-12-05,1825-2105,38,MAR,4804,100,Online Courses,
+2020-2021,Fall 2020,83977,MAR4804,U03,Marketing Strategy,Department of Marketing & Logistics,R,3.00-3.00,2020-08-24,2020-12-05,1100-1345,33,MAR,4804,45,Modesto A. Maidique Campus,GC287B
+2020-2021,Fall 2020,83981,MAR4804,RVC,Marketing Strategy,Department of Marketing & Logistics,,3.00-3.00,2020-08-24,2020-12-05,,57,MAR,4804,45,Online Courses,
+2020-2021,Fall 2020,83972,MAR4860,U01,Customer Relationship Management,Department of Marketing & Logistics,M,3.00-3.00,2020-08-24,2020-12-05,1400-1645,33,MAR,4860,60,Online Courses,
+2020-2021,Fall 2020,83869,MAR4860,RVC,Customer Relationship Management,Department of Marketing & Logistics,,3.00-3.00,2020-08-24,2020-12-05,,50,MAR,4860,60,Online Courses,
+2020-2021,Fall 2020,83845,MAR4941,U01,Marketing Internship,Department of Marketing & Logistics,,1.00-20.00,2020-08-24,2020-12-05,,4,MAR,4941,30,Modesto A. Maidique Campus,
+2020-2021,Fall 2020,88849,MAR4941,RVC,Marketing Internship,Department of Marketing & Logistics,,1.00-20.00,2020-08-24,2020-12-05,,2,MAR,4941,10,Online Courses,
+2020-2021,Fall 2020,88918,QMB3003,RVC,Quantitative Foundations of Business Administratio,Department of Information Systems and Business Analytics,,3.00-3.00,2020-08-24,2020-12-05,,29,QMB,3003,50,Online Courses,
+2020-2021,Fall 2020,88919,QMB3003,RVD,Quantitative Foundations of Business Administratio,Department of Information Systems and Business Analytics,,3.00-3.00,2020-08-24,2020-12-05,,50,QMB,3003,50,Online Courses,
+2020-2021,Fall 2020,84254,QMB3003,U02,Quantitative Foundations of Business Administratio,Department of Information Systems and Business Analytics,W,3.00-3.00,2020-08-24,2020-12-05,1400-1645,3,QMB,3003,45,FIU Downtown on Brickell,FDBS201
+2020-2021,Fall 2020,84259,QMB3200,RVJ,Application of Quantitative Methods in Business,Department of Information Systems and Business Analytics,,3.00-3.00,2020-08-24,2020-12-05,,50,QMB,3200,50,Online Courses,
+2020-2021,Fall 2020,84114,QMB3200,U12,Application of Quantitative Methods in Business,Department of Information Systems and Business Analytics,R,3.00-3.00,2020-08-24,2020-12-05,1700-1940,1,QMB,3200,60,Modesto A. Maidique Campus,MANGO222
+2020-2021,Fall 2020,84115,QMB3200,RVF,Application of Quantitative Methods in Business,Department of Information Systems and Business Analytics,,3.00-3.00,2020-08-24,2020-12-05,,50,QMB,3200,50,Online Courses,
+2020-2021,Fall 2020,84104,QMB3200,U11,Application of Quantitative Methods in Business,Department of Information Systems and Business Analytics,M,3.00-3.00,2020-08-24,2020-12-05,1400-1645,4,QMB,3200,200,Modesto A. Maidique Campus,GL100
+2020-2021,Fall 2020,84156,QMB3200,RVH,Application of Quantitative Methods in Business,Department of Information Systems and Business Analytics,,3.00-3.00,2020-08-24,2020-12-05,,50,QMB,3200,55,FIU at I-75,FI75423
+2020-2021,Fall 2020,84157,QMB3200,RVI,Application of Quantitative Methods in Business,Department of Information Systems and Business Analytics,,3.00-3.00,2020-08-24,2020-12-05,,50,QMB,3200,78,Modesto A. Maidique Campus,RB130
+2020-2021,Fall 2020,84345,QMB3200,U13,Application of Quantitative Methods in Business,Department of Information Systems and Business Analytics,T,3.00-3.00,2020-08-24,2020-12-05,1950-2230,39,QMB,3200,48,Modesto A. Maidique Campus,RB150
+2020-2021,Fall 2020,83964,QMB3200,RVE,Application of Quantitative Methods in Business,Department of Information Systems and Business Analytics,,3.00-3.00,2020-08-24,2020-12-05,,50,QMB,3200,80,Online Courses,
+2020-2021,Fall 2020,83990,QMB3200,U08,Application of Quantitative Methods in Business,Department of Information Systems and Business Analytics,R,3.00-3.00,2020-08-24,2020-12-05,1100-1345,36,QMB,3200,50,Online Courses,
+2020-2021,Fall 2020,83991,QMB3200,U09,Application of Quantitative Methods in Business,Department of Information Systems and Business Analytics,M,3.00-3.00,2020-08-24,2020-12-05,1700-1940,40,QMB,3200,50,Online Courses,
+2020-2021,Fall 2020,83992,QMB3200,RVC,Application of Quantitative Methods in Business,Department of Information Systems and Business Analytics,,3.00-3.00,2020-08-24,2020-12-05,,49,QMB,3200,50,Online Courses,
+2020-2021,Fall 2020,84044,QMB3200,U02,Application of Quantitative Methods in Business,Department of Information Systems and Business Analytics,T,3.00-3.00,2020-08-24,2020-12-05,1700-1940,34,QMB,3200,60,Online Courses,
+2020-2021,Fall 2020,84045,QMB3200,U04,Application of Quantitative Methods in Business,Department of Information Systems and Business Analytics,R,3.00-3.00,2020-08-24,2020-12-05,1950-2230,23,QMB,3200,48,Modesto A. Maidique Campus,RB150
+2020-2021,Fall 2020,83847,QMB3200,RVD,Application of Quantitative Methods in Business,Department of Information Systems and Business Analytics,,3.00-3.00,2020-08-24,2020-12-05,,50,QMB,3200,100,Online Courses,
+2020-2021,Fall 2020,83836,QMB3200,P80,Application of Quantitative Methods in Business,Department of Information Systems and Business Analytics,R,3.00-3.00,2020-08-24,2020-12-05,1700-1940,27,QMB,3200,100,Online Courses,
+2020-2021,Fall 2020,83819,QMB3200,U01,Application of Quantitative Methods in Business,Department of Information Systems and Business Analytics,M,3.00-3.00,2020-08-24,2020-12-05,1100-1345,44,QMB,3200,100,Online Courses,
+2020-2021,Fall 2020,83820,QMB3200,B51,Application of Quantitative Methods in Business,Department of Information Systems and Business Analytics,T,3.00-3.00,2020-08-24,2020-12-05,1700-1940,28,QMB,3200,100,Online Courses,
+2020-2021,Fall 2020,83709,QMB3200,U10,Application of Quantitative Methods in Business,Department of Information Systems and Business Analytics,W,3.00-3.00,2020-08-24,2020-12-05,1100-1345,39,QMB,3200,49,Modesto A. Maidique Campus,CBC252
+2020-2021,Fall 2020,83935,QMB3200,U03,Application of Quantitative Methods in Business,Department of Information Systems and Business Analytics,W,3.00-3.00,2020-08-24,2020-12-05,1400-1645,35,QMB,3200,80,Online Courses,
+2020-2021,Fall 2020,83936,QMB3200,U05,Application of Quantitative Methods in Business,Department of Information Systems and Business Analytics,M,3.00-3.00,2020-08-24,2020-12-05,1400-1645,40,QMB,3200,70,Online Courses,
+2020-2021,Fall 2020,83937,QMB3200,U06,Application of Quantitative Methods in Business,Department of Information Systems and Business Analytics,T,3.00-3.00,2020-08-24,2020-12-05,1100-1345,48,QMB,3200,50,Online Courses,
+2020-2021,Fall 2020,83938,QMB3200,U07,Application of Quantitative Methods in Business,Department of Information Systems and Business Analytics,W,3.00-3.00,2020-08-24,2020-12-05,1950-2230,11,QMB,3200,55,Online Courses,
+2020-2021,Fall 2020,90343,QMB3200,RVL,Application of Quantitative Methods in Business,Department of Information Systems and Business Analytics,,3.00-3.00,2020-08-24,2020-12-05,,75,QMB,3200,50,Online Courses,
+2020-2021,Fall 2020,90339,QMB4680,RVO,Operations Analysis,Department of Information Systems and Business Analytics,,3.00-3.00,2020-08-24,2020-12-05,,7,QMB,4680,50,Online Courses,
+2020-2021,Fall 2020,90340,QMB4680,RVP,Operations Analysis,Department of Information Systems and Business Analytics,,3.00-3.00,2020-08-24,2020-12-05,,50,QMB,4680,50,Online Courses,
+2020-2021,Fall 2020,89596,QMB4680,RVL,Operations Analysis,Department of Information Systems and Business Analytics,,3.00-3.00,2020-08-24,2020-12-05,,50,QMB,4680,50,Online Courses,
+2020-2021,Fall 2020,89881,QMB4680,RVM,Operations Analysis,Department of Information Systems and Business Analytics,,3.00-3.00,2020-08-24,2020-12-05,,45,QMB,4680,45,Online Courses,
+2020-2021,Fall 2020,89882,QMB4680,RVN,Operations Analysis,Department of Information Systems and Business Analytics,,3.00-3.00,2020-08-24,2020-12-05,,45,QMB,4680,45,Online Courses,
+2020-2021,Fall 2020,84109,QMB4680,RVI,Operations Analysis,Department of Information Systems and Business Analytics,,3.00-3.00,2020-08-24,2020-12-05,,50,QMB,4680,50,Online Courses,
+2020-2021,Fall 2020,84093,QMB4680,U01,Operations Analysis,Department of Information Systems and Business Analytics,W,3.00-3.00,2020-08-24,2020-12-05,1700-1940,41,QMB,4680,48,Modesto A. Maidique Campus,CBC252
+2020-2021,Fall 2020,84094,QMB4680,P80,Operations Analysis,Department of Information Systems and Business Analytics,T,3.00-3.00,2020-08-24,2020-12-05,1825-2105,48,QMB,4680,55,FIU at I-75,FI75422
+2020-2021,Fall 2020,84095,QMB4680,RVC,Operations Analysis,Department of Information Systems and Business Analytics,,3.00-3.00,2020-08-24,2020-12-05,,90,QMB,4680,50,Online Courses,
+2020-2021,Fall 2020,84096,QMB4680,RVD,Operations Analysis,Department of Information Systems and Business Analytics,,3.00-3.00,2020-08-24,2020-12-05,,50,QMB,4680,50,Online Courses,
+2020-2021,Fall 2020,84097,QMB4680,RVE,Operations Analysis,Department of Information Systems and Business Analytics,,3.00-3.00,2020-08-24,2020-12-05,,53,QMB,4680,50,Online Courses,
+2020-2021,Fall 2020,84098,QMB4680,RVF,Operations Analysis,Department of Information Systems and Business Analytics,,3.00-3.00,2020-08-24,2020-12-05,,85,QMB,4680,60,Modesto A. Maidique Campus,MANGO222
+2020-2021,Fall 2020,84099,QMB4680,RVG,Operations Analysis,Department of Information Systems and Business Analytics,,3.00-3.00,2020-08-24,2020-12-05,,80,QMB,4680,60,Modesto A. Maidique Campus,GL165
+2020-2021,Fall 2020,84100,QMB4680,RVH,Operations Analysis,Department of Information Systems and Business Analytics,,3.00-3.00,2020-08-24,2020-12-05,,75,QMB,4680,50,Online Courses,
+2020-2021,Fall 2020,84342,QMB4680,RVK,Operations Analysis,Department of Information Systems and Business Analytics,,3.00-3.00,2020-08-24,2020-12-05,,50,QMB,4680,50,Online Courses,
+2020-2021,Fall 2020,84311,QMB4680,RVJ,Operations Analysis,Department of Information Systems and Business Analytics,,3.00-3.00,2020-08-24,2020-12-05,,50,QMB,4680,50,Online Courses,
+2020-2021,Fall 2020,84141,QMB4680,U02,Operations Analysis,Department of Information Systems and Business Analytics,M,3.00-3.00,2020-08-24,2020-12-05,1400-1645,43,QMB,4680,50,Online Courses,
+2020-2021,Fall 2020,84142,QMB4680,U03,Operations Analysis,Department of Information Systems and Business Analytics,W,3.00-3.00,2020-08-24,2020-12-05,1700-1940,36,QMB,4680,280,Modesto A. Maidique Campus,GL100
+2020-2021,Fall 2020,84221,QMB4680,U04,Operations Analysis,Department of Information Systems and Business Analytics,R,3.00-3.00,2020-08-24,2020-12-05,1400-1645,44,QMB,4680,55,FIU Downtown on Brickell,FDBS1010
+2020-2021,Fall 2020,83821,REE3043,U01,Real Estate Principles,Tibor and Sheila Hollo School of Real Estate ,T,3.00-3.00,2020-08-24,2020-12-05,1950-2230,29,REE,3043,100,Online Courses,
+2020-2021,Fall 2020,83832,REE3043,RVC,Real Estate Principles,Tibor and Sheila Hollo School of Real Estate ,,3.00-3.00,2020-08-24,2020-12-05,,60,REE,3043,100,Online Courses,
+2020-2021,Fall 2020,83852,REE4103,RVC,Appraisal of Real Estate,Tibor and Sheila Hollo School of Real Estate ,,3.00-3.00,2020-08-24,2020-12-05,,32,REE,4103,60,Online Courses,
+2020-2021,Fall 2020,84218,REE4303,U01,Real Estate Invest,Tibor and Sheila Hollo School of Real Estate ,T,3.00-3.00,2020-08-24,2020-12-05,1700-1940,47,REE,4303,60,Modesto A. Maidique Campus,RB140
+2020-2021,Fall 2020,83837,REE4433,U01,Legal Environment of Real Estate,Tibor and Sheila Hollo School of Real Estate ,M,3.00-3.00,2020-08-24,2020-12-05,1950-2230,34,REE,4433,100,Online Courses,
+2020-2021,Fall 2020,83883,REE4956,U01,International Real Estate,Tibor and Sheila Hollo School of Real Estate ,W,3.00-3.00,2020-08-24,2020-12-05,1950-2230,21,REE,4956,60,Modesto A. Maidique Campus,RB130
+2020-2021,Fall 2020,83879,TAX4001,RVC,Income Tax Accounting,School of Accounting,,3.00-3.00,2020-08-24,2020-12-05,,33,TAX,4001,50,Online Courses,
+2020-2021,Fall 2020,83875,TAX4001,U02,Income Tax Accounting,School of Accounting,W,3.00-3.00,2020-08-24,2020-12-05,1400-1645,27,TAX,4001,45,Modesto A. Maidique Campus,MANGO220
+2020-2021,Fall 2020,83827,TAX4001,U01,Income Tax Accounting,School of Accounting,M,3.00-3.00,2020-08-24,2020-12-05,1700-1940,30,TAX,4001,45,Modesto A. Maidique Campus,PCA 150 
+2020-2021,Fall 2020,83798,TAX4011,RVD,Taxation of Corporations and Partnerships,School of Accounting,,3.00-3.00,2020-08-24,2020-12-05,,35,TAX,4011,50,Online Courses,
+2020-2021,Fall 2020,83726,TAX4011,U02,Taxation of Corporations and Partnerships,School of Accounting,R,3.00-3.00,2020-08-24,2020-12-05,1700-1940,33,TAX,4011,45,Modesto A. Maidique Campus,PC424
+2020-2021,Fall 2020,83902,TAX4011,U01,Taxation of Corporations and Partnerships,School of Accounting,M,3.00-3.00,2020-08-24,2020-12-05,1400-1645,25,TAX,4011,45,Modesto A. Maidique Campus,MANGO220
+2020-2021,Fall 2020,84208,TRA4012,RVC,Principles of Transportation,Department of Marketing & Logistics,,3.00-3.00,2020-08-24,2020-12-05,,40,TRA,4012,60,Online Courses,
+2020-2021,Fall 2020,83988,TRA4012,U01,Principles of Transportation,Department of Marketing & Logistics,R,3.00-3.00,2020-08-24,2020-12-05,1230-1345,21,TRA,4012,50,Modesto A. Maidique Campus,CBC152
+2020-2021,Fall 2020,83976,TRA4202,U01,Logistics Technology,Department of Marketing & Logistics,R,3.00-3.00,2020-08-24,2020-12-05,0930-1045,23,TRA,4202,50,Modesto A. Maidique Campus,RB130
+2020-2021,Fall 2020,84216,TRA4202,RVC,Logistics Technology,Department of Marketing & Logistics,,3.00-3.00,2020-08-24,2020-12-05,,40,TRA,4202,55,FIU Downtown on Brickell,FDBS1015
+2020-2021,Fall 2020,83912,TRA4203,U01,Principles of Logistics,Department of Marketing & Logistics,R,3.00-3.00,2020-08-24,2020-12-05,0800-0915,19,TRA,4203,50,Online Courses,
+2020-2021,Fall 2020,83934,TRA4203,RVC,Principles of Logistics,Department of Marketing & Logistics,,3.00-3.00,2020-08-24,2020-12-05,,50,TRA,4203,50,Online Courses,
+2020-2021,Fall 2020,83942,TRA4214,RVC,Logistics Strategy,Department of Marketing & Logistics,,3.00-3.00,2020-08-24,2020-12-05,,49,TRA,4214,50,Online Courses,
+2020-2021,Fall 2020,83954,TRA4721,U01,Global Logistics,Department of Marketing & Logistics,R,3.00-3.00,2020-08-24,2020-12-05,1700-1940,20,TRA,4721,135,Modesto A. Maidique Campus,SIPA125
+2020-2021,Fall 2020,83878,TRA4721,RVC,Global Logistics,Department of Marketing & Logistics,,3.00-3.00,2020-08-24,2020-12-05,,50,TRA,4721,50,Online Courses,
+2020-2021,Fall 2020,89102,TRA4721,U02,Global Logistics,Department of Marketing & Logistics,T,3.00-3.00,2020-08-24,2020-12-05,1700-1940,20,TRA,4721,50,Modesto A. Maidique Campus,MANGO220
