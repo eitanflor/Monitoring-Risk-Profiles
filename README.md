@@ -35,6 +35,11 @@ The metadata utilized as the simulation of our "FIU Network" via Neo4j is shown 
 
 ![network image](https://github.com/eitanflor/Monitoring-Risk-Profiles/blob/master/static/neo4j-network.png)
 
+Our designed risk profiling metric is depicted below:
+
+![metric](https://github.com/eitanflor/Monitoring-Risk-Profiles/blob/master/static/risk%20score.JPG)
+
+
 ### Python
 
 The final Python code has been migrated to a Jupyter Notebook for ease of use and visualization. The full notebook can be accessed [here](https://github.com/eitanflor/Monitoring-Risk-Profiles/blob/master/python/simulation.ipynb)
